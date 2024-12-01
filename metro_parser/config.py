@@ -56,10 +56,10 @@ MAX_PAGES = 100  # None для бесконечного парсинга, пок
 REQUEST_DELAY = 10  # None для отсутствия задержек
 
 # Настройка прокси
-USE_PROXY = True
-PROXY_TYPE = "socks5"  # Тип прокси: socks5 для Tor
-PROXY_IP = "139.60.163.143"  # IP-адрес Tor-прокси
-PROXY_PORT = 31539       # Порт Tor-прокси
-PROXY_USER = "proxy_user"       # Логин для авторизации (если требуется)
-PROXY_PASSWORD = "K37ty5zWOd"   # Пароль для авторизации (если требуется)
+USE_PROXY = False
+PROXY_TYPE = "socks5"
+PROXY_IP = ""
+PROXY_PORT = 31539
+PROXY_USER = ""
+PROXY_PASSWORD = ""
 
