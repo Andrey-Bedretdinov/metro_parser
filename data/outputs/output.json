@@ -1,0 +1,5515 @@
+[
+    {
+        "id": "125930",
+        "name": "Рулька свиная Черкизово охлажденная, ~1.2кг",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": 319.0,
+        "old_price": 349.0,
+        "discount": "-9%",
+        "offline_prices": [
+            {
+                "actual_price": 319.0,
+                "old_price": 349.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/rulka-cherkizovo-tf-ohl-vu"
+    },
+    {
+        "id": "219701",
+        "name": "Мякоть говяжьей шейной части Мясо есть! без кости охлажденная, 600г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 521.0,
+        "old_price": 599.01,
+        "discount": "-13%",
+        "offline_prices": [
+            {
+                "actual_price": 521.0,
+                "old_price": 599.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/600g-myakot-sheynoy-chasti-myaso-est-bk-ohl-vu"
+    },
+    {
+        "id": "274646",
+        "name": "Часть говяжья тазобедренная Вахавяк Плюс фирменная охлажденная, 800г",
+        "brand": "ВАХАВЯК ПЛЮС",
+        "current_price": 859.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 859.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 816.05,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/chast-govyazhya-tazobedrennaya-vahavyak-plyus-firmennaya-ohlazhdennaya-800g"
+    },
+    {
+        "id": "236258",
+        "name": "METRO Chef Шея свиная бескостная стейки охлажденная, 600г",
+        "brand": "METRO CHEF",
+        "current_price": 439.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 439.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 399.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/metro-chef-sheya-svinaya-beskostnaya-steyki-ohlazhdennaya-600g"
+    },
+    {
+        "id": "243898",
+        "name": "Окорок свиной АгроЭко без кости охлажденный, ~1кг",
+        "brand": "АГРОЭКО",
+        "current_price": 379.01,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 379.01,
+                "old_price": null
+            },
+            {
+                "actual_price": 339.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/1kg-okorok-svinoy-agroeko-bk-ohl-vu"
+    },
+    {
+        "id": "575968",
+        "name": "Говядина Мираторг Чак ролл",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-7%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/chak-roll-govyazhij-miratorg"
+    },
+    {
+        "id": "258383",
+        "name": "Отруб говяжий толстый край Myasoet Meat Company Prime Рибай без кости охлажденный, ~5кг",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/otrub-govyazhiy-tolstyy-kray-ribay-myasoet-meat-company-bez-kosti-ohlazhdennyy-5kg"
+    },
+    {
+        "id": "586220",
+        "name": "Вырезка Мясо есть! говяжья охлажденная",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/vyrezka-govyazhya-vakuumnaya-upakovka-586220"
+    },
+    {
+        "id": "260012",
+        "name": "Кострец Primebeef Халяль нижняя часть охлажденный, ~3кг",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/3kg-kostrets-nizhnyaya-chast-primebeef-halyal-vu-ohl"
+    },
+    {
+        "id": "104455",
+        "name": "Вырезка говяжья Эколь Халяль охлажденная, ~1кг",
+        "brand": "ЭКОЛЬ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/vyrezka-iz-halyal-vakuumnaya-upakovka-ekol"
+    },
+    {
+        "id": "106352",
+        "name": "Стейк Primebeef Рамп из говядины охлажденный, 400г",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/stejk-ramp-iz-prajmbif-v-vakuumnoj-upakovke-400-g"
+    },
+    {
+        "id": "235147",
+        "name": "Грудинка говяжья Мясо есть! Халяль без кости охлажденная, 600г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 540.0,
+        "old_price": 609.0,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 540.0,
+                "old_price": 609.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/grudinka-govyazhya-myaso-est-halyal-bez-kosti-ohlazhdennaya-600g"
+    },
+    {
+        "id": "208545",
+        "name": "Баранина для плова Bazarco Халяль охлажденная, 600г",
+        "brand": "BAZARCO",
+        "current_price": 919.01,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 919.01,
+                "old_price": null
+            },
+            {
+                "actual_price": 808.73,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/600g-baranina-dlya-plova-bazarco-ohl-vu"
+    },
+    {
+        "id": "248865",
+        "name": "Стейк из корейки АгроЭко со специями охлажденный, 400г",
+        "brand": "АГРОЭКО",
+        "current_price": 229.0,
+        "old_price": 289.0,
+        "discount": "-21%",
+        "offline_prices": [
+            {
+                "actual_price": 229.0,
+                "old_price": 289.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400g-steyk-agroeko-iz-koreyki-so-spetsiyami-ohl"
+    },
+    {
+        "id": "272864",
+        "name": "Лопатка ягнячья Мираторг Халяль из молочного ягненка на кости охлажденная, ~1.2кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/12kg-lopatka-yagnyachya-miratorg-molochn-yagnen-nk-halyal-ohl"
+    },
+    {
+        "id": "98002",
+        "name": "Ножки кролика Кролъ и К в маринаде охлажденные",
+        "brand": "КРОЛЪ И К",
+        "current_price": 901.0,
+        "old_price": 949.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 901.0,
+                "old_price": 949.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/nozhki-k-v-marinade-1-kg"
+    },
+    {
+        "id": "78671",
+        "name": "Внешняя часть бедра говяжья Мираторг Black Angus охлажденная, ~4кг",
+        "brand": "МИРАТОРГ",
+        "current_price": 919.0,
+        "old_price": null,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 919.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/4kg-vneshnyaya-chast-bedra-miratorg-black-angus-gov-ohl"
+    },
+    {
+        "id": "243896",
+        "name": "Карбонад свиной АгроЭко без кости охлажденный, ~1кг",
+        "brand": "АГРОЭКО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-karbonad-svinoy-agroeko-bk-ohl-vu"
+    },
+    {
+        "id": "127762",
+        "name": "Вырезка говяжья Grand Ana Paula без цепочки зерновой откорм Уругвай охлажденная, ~2кг",
+        "brand": "GRAND ANA PAULA",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/vyrezka-govyazhya-bez-cepochki-zern-otkorm-urugvaj-ohl-v-u"
+    },
+    {
+        "id": "271826",
+        "name": "Жаркое свиное Слово мясника по-деревенски охлажденное, ~1.3кг",
+        "brand": "СЛОВО МЯСНИКА",
+        "current_price": 389.0,
+        "old_price": 519.0,
+        "discount": "-25%",
+        "offline_prices": [
+            {
+                "actual_price": 389.0,
+                "old_price": 519.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/13kg-zharkoe-svinoe-slovo-myasnika-po-derevenski-ohl-vu"
+    },
+    {
+        "id": "207150",
+        "name": "Карпаччо Мираторг из телятины охлажденное, 100г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/100g-karpachcho-iz-telyatiny-miratorg-ohl-vu"
+    },
+    {
+        "id": "97478",
+        "name": "Шейка свиная Черкизово без кости охлажденная, ~3кг",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": 565.47,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 549.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 499.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/shejka-1-kg"
+    },
+    {
+        "id": "127764",
+        "name": "Чак ролл говяжий Grand Ana Paula зерновой откорм Уругвай охлажденный",
+        "brand": "GRAND ANA PAULA",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/chak-roll-govyazhij-zern-otkorm-urugvaj-ohl-v-u"
+    },
+    {
+        "id": "235156",
+        "name": "Мякоть говядины Мясо есть! Халяль охлажденная, 600г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 645.0,
+        "old_price": 779.0,
+        "discount": "-17%",
+        "offline_prices": [
+            {
+                "actual_price": 645.0,
+                "old_price": 779.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myakot-govyadiny-myaso-est-halyal-ohlazhdennaya-600g"
+    },
+    {
+        "id": "270343",
+        "name": "Говядина Мясо есть! для бульона охлажденная, 400г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 327.0,
+        "old_price": 409.0,
+        "discount": "-20%",
+        "offline_prices": [
+            {
+                "actual_price": 327.0,
+                "old_price": 409.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400g-govyadina-myaso-est-dlya-bulona-ohl-vu"
+    },
+    {
+        "id": "118365",
+        "name": "Ребрышки говяжьи Эколь Халяль охлажденные, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 284.0,
+        "old_price": 315.0,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": 284.0,
+                "old_price": 315.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400-g-rebryshki-govyazhyi-ekol-ohl-gaz-halyal"
+    },
+    {
+        "id": "235920",
+        "name": "METRO Chef Лопатка бескостная из фермерской телятины, 800г",
+        "brand": "METRO CHEF",
+        "current_price": 929.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 929.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 849.02,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/800g-lopatka-beskostnaya-metro-chef-iz-fermerskoy-telyatiny"
+    },
+    {
+        "id": "214307",
+        "name": "Стриплойн Мираторг Matured зачищенный охлажденный, ~4.7кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/47kg-striployn-miratorg-zachischennyy-matured-ohl-vu"
+    },
+    {
+        "id": "203298",
+        "name": "Поджарка говяжья Эколь Халяль охлажденная, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 502.0,
+        "old_price": 529.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 502.0,
+                "old_price": 529.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400g-podzharka-govyazhya-ekol-ohl-lotok"
+    },
+    {
+        "id": "78665",
+        "name": "Лопатка говяжья Мираторг Black Angus охлажденная, ~4.5кг",
+        "brand": "МИРАТОРГ",
+        "current_price": 948.0,
+        "old_price": null,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 948.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/5kg-lopatka-govyazhya-miratorg-black-angus-ohl"
+    },
+    {
+        "id": "328743",
+        "name": "Лопатка свиная Мираторг без рульки охлажденная, ~5.77кг",
+        "brand": "МИРАТОРГ",
+        "current_price": 390.38,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 379.01,
+                "old_price": null
+            },
+            {
+                "actual_price": 349.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/lopatka-bez-rulki-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "250203",
+        "name": "Ребрышки бараньи Эколь Халяль охлажденные, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 679.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 679.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 599.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/rebryshki-barani-ekol-halyal-ohlazhdennye-400g"
+    },
+    {
+        "id": "135848",
+        "name": "Стейк Мираторг Matured Beef Топ Блейд Skin охлажденный, 450г",
+        "brand": "МИРАТОРГ",
+        "current_price": 529.0,
+        "old_price": 589.01,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": 529.0,
+                "old_price": 589.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-matured-top-bleyd-skin-ohlazhdennyy-250g"
+    },
+    {
+        "id": "640573",
+        "name": "Ребрышки свиные Мираторг Классические TF охлажденные",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/rebryshki-svinye-klassicheskie-miratorg"
+    },
+    {
+        "id": "241947",
+        "name": "Говядина Мясо есть! стейк Стриплойн Халяль без кости охлажденная, ~2кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/govyadina-myaso-est-steyk-striployn-halyal-ohlazhdennaya-2kg"
+    },
+    {
+        "id": "139030",
+        "name": "METRO Chef Рулет Боярский из фермерской свинины охлажденный, ~700г",
+        "brand": "METRO CHEF",
+        "current_price": 559.0,
+        "old_price": 629.0,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 559.0,
+                "old_price": 629.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/15kg-rulet-metro-chef-boyarskiy-iz-svininy-ferm-ohl"
+    },
+    {
+        "id": "240254",
+        "name": "Котлетное мясо Филье Проперти из свинины охлажденное 70/30, ~4кг",
+        "brand": "ФИЛЬЕ ПРОПЕРТИ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/4kg-kotletnoe-myaso-svininy-7030-file-properti-vu-ohl"
+    },
+    {
+        "id": "234818",
+        "name": "Карбонад свиной Коралл охлажденный, ~3кг",
+        "brand": "Без бренда",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoy-korall-ohlazhdennyy-3kg"
+    },
+    {
+        "id": "228304",
+        "name": "Шейка свиная АгроЭко без кости охлажденная, ~2.8кг",
+        "brand": "АГРОЭКО",
+        "current_price": 549.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 549.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 499.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/275kg-sheyka-svinaya-agroeko-bk-ohl-vu"
+    },
+    {
+        "id": "255268",
+        "name": "Бекон свиной Ближние горки для жарки охлажденный, 260г",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": 199.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 199.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 185.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/260g-bekon-svinoy-blizhnie-gorki-dlya-zharki-vu-ohl"
+    },
+    {
+        "id": "262414",
+        "name": "Стейк говяжий Myasoet Meat Company Денвер охлажденный, 300г",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": 939.0,
+        "old_price": 989.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 939.0,
+                "old_price": 989.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/300g-steyk-govyazhiy-myasoet-meat-company-denver-ohl-vu"
+    },
+    {
+        "id": "510634",
+        "name": "Шейка свиная Останкино охлажденная, ~2-3.5кг",
+        "brand": "ОСТАНКИНО",
+        "current_price": 565.47,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 549.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 499.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/shejka-svinaya-ostankino-vakuumnaya-upakovka"
+    },
+    {
+        "id": "262415",
+        "name": "Стейк говяжий Myasoet Meat Company Пиканья охлажденный, 300г",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": 751.0,
+        "old_price": 939.0,
+        "discount": "-20%",
+        "offline_prices": [
+            {
+                "actual_price": 751.0,
+                "old_price": 939.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/300g-steyk-govyazhiy-myasoet-meat-company-pikanya-ohl-vu"
+    },
+    {
+        "id": "272690",
+        "name": "Корейка свиная Самсон с ягодами клюквы, 850г",
+        "brand": "САМСОН",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/koreyka-svinaya-samson-s-yagodami-klyukvy-850g"
+    },
+    {
+        "id": "207143",
+        "name": "Буженина из свинины Мираторг домашняя охлажденная, ~1.175кг",
+        "brand": "МИРАТОРГ",
+        "current_price": 540.0,
+        "old_price": 569.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 540.0,
+                "old_price": 569.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/1175kg-buzhenina-domashnyaya-miratorg-svinina-ohl-vu"
+    },
+    {
+        "id": "272909",
+        "name": "Часть тазобедренная Мираторг Халяль из молочного ягненка охлажденная, ~3.1кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/31kg-tazobedrennaya-chast-miratorg-molochn-yagnen-halyal-ohl"
+    },
+    {
+        "id": "203296",
+        "name": "Баранина для бульона Эколь Халяль охлажденная, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 219.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 219.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 195.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400g-baranina-dlya-bulona-ekol-ohl-lotok"
+    },
+    {
+        "id": "656130",
+        "name": "Корейка Останкино свиная на кости без позвоночника",
+        "brand": "ОСТАНКИНО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/korejka-na-kosti-bez-pozvonochnika-v-u-ostankino"
+    },
+    {
+        "id": "98350",
+        "name": "Стейк Мясо есть! Чак Ролл из говядины охлажденный, 300г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 407.0,
+        "old_price": 459.0,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 407.0,
+                "old_price": 459.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-chak-roll-myaso-est-govyazhij-300-g"
+    },
+    {
+        "id": "208542",
+        "name": "Окорок молодого барашка Bazarco Халяль на кости без голяшки охлажденный, ~1кг",
+        "brand": "BAZARCO",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-okorok-na-kosti-bez-golyashki-bazarco-ohl-vu"
+    },
+    {
+        "id": "272579",
+        "name": "METRO Chef Гуляш из говядины охлажденный, 600г",
+        "brand": "METRO CHEF",
+        "current_price": 591.0,
+        "old_price": 739.0,
+        "discount": "-20%",
+        "offline_prices": [
+            {
+                "actual_price": 591.0,
+                "old_price": 739.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/metro-chef-gulyash-iz-govyadiny-ohlazhdennyy-600g"
+    },
+    {
+        "id": "256207",
+        "name": "Рибай говяжий Мясо есть! охлажденный, ~3кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-16%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/ribay-govyazhiy-myaso-est-ohlazhdennyy-3kg"
+    },
+    {
+        "id": "269082",
+        "name": "Карбонад АгроЭко Праздничный охлажденный, ~1.1кг",
+        "brand": "АГРОЭКО",
+        "current_price": 559.0,
+        "old_price": 629.0,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 559.0,
+                "old_price": 629.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/11kg-karbonad-agroeko-prazdnichnyy-ohl-vu"
+    },
+    {
+        "id": "113951",
+        "name": "Грудинка Мясники для запекания без кости ТУ охлажденная, ~4кг",
+        "brand": "МЯСНИКИ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/grudinka-dlya-zapekaniya-myasniki-b-k-tu-ohl"
+    },
+    {
+        "id": "119442",
+        "name": "Стейк Мясо есть! Рибай Skin из говядины охлажденный, 320г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 806.0,
+        "old_price": 899.1,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": 806.0,
+                "old_price": 899.1
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/320g-stejk-myaso-est-ribaj-ohl-skin"
+    },
+    {
+        "id": "201803",
+        "name": "Рулька свиная Черкизово в специях охлажденная, ~1кг",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": 359.0,
+        "old_price": 429.0,
+        "discount": "-16%",
+        "offline_prices": [
+            {
+                "actual_price": 359.0,
+                "old_price": 429.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/1kg-rulka-cherkizovo-v-spetsiyah-ohl-vu"
+    },
+    {
+        "id": "590718",
+        "name": "Говядина Заречное Чак ролл охлажденная, ~1.17кг",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-7%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/chak-roll-govyazhij-vakuumnaya-upakovka"
+    },
+    {
+        "id": "219695",
+        "name": "Гуляш Мясо есть! из говядины охлажденный, 600г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 559.0,
+        "old_price": 619.0,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": 559.0,
+                "old_price": 619.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/600g-gulyash-iz-govyadiny-myaso-est-ohl-vu"
+    },
+    {
+        "id": "40568",
+        "name": "Шейка свиная Черкизово охлажденная, ~1.1кг",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/shejka-svinaya-cherkizovo-40568"
+    },
+    {
+        "id": "272912",
+        "name": "Голяшка Мираторг Халяль из молочного ягненка задняя на кости охлажденная, ~600г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/600g-golyashka-miratorg-molochn-yagnenok-zadnyaya-nk-halyal-ohl"
+    },
+    {
+        "id": "560727",
+        "name": "Вырезка телячья Мясо есть! охлажденная, ~900г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/vyrezka-telyachya-myaso-est-v-u"
+    },
+    {
+        "id": "235553",
+        "name": "Антрекот говяжий Эколь нарезной халяль охлажденный, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 483.0,
+        "old_price": 539.0,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": 483.0,
+                "old_price": 539.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/antrekot-govyazhiy-ekol-nareznoy-halyal-ohlazhdennyy-400g"
+    },
+    {
+        "id": "627783",
+        "name": "Ребрышки Мираторг свиные",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/rebryshki-svinye-vakuumnaya-upakovka"
+    },
+    {
+        "id": "558049",
+        "name": "Ребрышки свиные Останкино барбекю крупные куски охлажденные, ~880г",
+        "brand": "ОСТАНКИНО",
+        "current_price": 388.0,
+        "old_price": 409.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 388.0,
+                "old_price": 409.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/rebryshki-barbekyu-krupnye-kuski-vakuumnaya-upakovka-ostankino"
+    },
+    {
+        "id": "275788",
+        "name": "Тушка кролика Мазайцево в сливочном маринаде охлажденная, ~1.5кг",
+        "brand": "МАЗАЙЦЕВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/tushka-krolika-mazaytsevo-v-slivochnom-marinade-ohlazhdennaya-15kg-275788"
+    },
+    {
+        "id": "328745",
+        "name": "Окорок свиной Мираторг без кости охлажденный, ~9.96кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/okorok-svinoj-bez-kozhi-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "603093",
+        "name": "Ребрышки свиные Останкино охлажденные, ~1.75кг",
+        "brand": "ОСТАНКИНО",
+        "current_price": 388.0,
+        "old_price": 409.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 388.0,
+                "old_price": 409.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/art-603093"
+    },
+    {
+        "id": "272876",
+        "name": "Вырезка ягнячья Мираторг Халяль из молочного ягненка охлажденная, ~1кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-vyrezka-yagnyachya-miratorg-molochnyy-yagnenok-halyal-ohl"
+    },
+    {
+        "id": "575411",
+        "name": "Мякоть шеи говяжья Заречное охлажденная, ~1кг",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": 787.0,
+        "old_price": null,
+        "discount": "-24%",
+        "offline_prices": [
+            {
+                "actual_price": 787.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myakot-shei-govyazhya-vakuumnaya-upakovka-zarechnoe"
+    },
+    {
+        "id": "658363",
+        "name": "Стейк Мираторг Prime Рибай из мраморной говядины охлажденный, 390г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-18%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-miratorg-ribaj-prime-390g"
+    },
+    {
+        "id": "270385",
+        "name": "Топ-блейд Мясо есть! для запекания охлажденное, 400г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/top-bleyd-myaso-est-dlya-zapekaniya-ohlazhdennoe-400g"
+    },
+    {
+        "id": "272817",
+        "name": "Набор для плова Bazarco из баранины на кости охлажденный, 550г",
+        "brand": "BAZARCO",
+        "current_price": 569.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 569.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 540.55,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/550g-nabor-dlya-plova-bazarco-baranina-na-kosti-ohl"
+    },
+    {
+        "id": "246572",
+        "name": "Лопатка свиная Филье Проперти бескостная охлажденная, ~9кг",
+        "brand": "ФИЛЬЕ ПРОПЕРТИ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/lopatka-svinaya-file-properti-beskostnaya-ohlazhdennaya-9kg"
+    },
+    {
+        "id": "381809",
+        "name": "Лопатка Мираторг свиная без кожи охлажденная",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/lopatka-bez-kozhi-podlozhka-miratorg"
+    },
+    {
+        "id": "611976",
+        "name": "Диафрагма Мираторг говяжья тонкая внешняя",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/diafragma-tonkaya-vneshnyaya-miratorg-v-u"
+    },
+    {
+        "id": "121468",
+        "name": "Стейк Фленк из говядины Веско охлажденный, 250г",
+        "brand": "ВЕСКО",
+        "current_price": 341.0,
+        "old_price": 359.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 341.0,
+                "old_price": 359.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/250g-stejk-flenk-vesko-ohl"
+    },
+    {
+        "id": "271787",
+        "name": "Шницель из говядины Веско в панировке охлажденный, 240г",
+        "brand": "ВЕСКО",
+        "current_price": 389.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 389.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 369.55,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/240g-shnitsel-vesko-iz-govyadiny-v-panirovke-ohl-vu"
+    },
+    {
+        "id": "270334",
+        "name": "Карбонад Ближние горки в классическом соусе охлажденный, ~1.25кг",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": 489.01,
+        "old_price": 619.0,
+        "discount": "-21%",
+        "offline_prices": [
+            {
+                "actual_price": 489.01,
+                "old_price": 619.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/125kg-karbonad-blizhnie-gorki-v-klassicheskom-souse-ohl-vu"
+    },
+    {
+        "id": "662246",
+        "name": "Стейк Рибай из говядины Мираторг Skin охлажденный, 500г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-miratorg-ribaj-skin-500g"
+    },
+    {
+        "id": "96155",
+        "name": "Шейка свиная Ближние горки охлажденная, ~2.6кг",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/shejka-vakuumnaya-upakovka-dmitrogorskij-produkt"
+    },
+    {
+        "id": "269313",
+        "name": "Мясо говяжье Эколь котлетное охлажденное, ~5кг",
+        "brand": "ЭКОЛЬ",
+        "current_price": 531.0,
+        "old_price": 559.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 531.0,
+                "old_price": 559.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/5kg-kotletnoe-myaso-gov-ohl-vu"
+    },
+    {
+        "id": "107711",
+        "name": "Шейка свиная Останкино в брусничном маринаде охлажденная",
+        "brand": "ОСТАНКИНО",
+        "current_price": 609.0,
+        "old_price": 719.0,
+        "discount": "-15%",
+        "offline_prices": [
+            {
+                "actual_price": 609.0,
+                "old_price": 719.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/shejka-v-brusnichnom-marinade-ostankino-v-vakuumnoj-upakovke"
+    },
+    {
+        "id": "305581",
+        "name": "Шейка свиная Останкино нарезанная охлажденная, ~1.22кг",
+        "brand": "ОСТАНКИНО",
+        "current_price": 629.0,
+        "old_price": 699.01,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": 629.0,
+                "old_price": 699.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/shejka-ostankino-narezannaya"
+    },
+    {
+        "id": "556081",
+        "name": "Курдюк бараний Мясо есть! Халяль охлажденный, ~500г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/kurdyuk-vakuumnaya-upakovka-myaso-est"
+    },
+    {
+        "id": "78670",
+        "name": "Кострец говяжий Мираторг Black Angus охлажденный, ~3.3кг",
+        "brand": "МИРАТОРГ",
+        "current_price": 919.0,
+        "old_price": null,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 919.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/kostrets-govyazhiy-ohl-miratorg-black-angus"
+    },
+    {
+        "id": "214899",
+        "name": "Чак-ролл Мираторг Matured Beef охлажденный, ~5.5кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/55kg-chak-roll-matured-beef-miratorg-ohl-vu"
+    },
+    {
+        "id": "518059",
+        "name": "Вырезка Мираторг говяжья из лопатки охлажденная",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-15%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/vyrezka-iz-lopatki-miratorg"
+    },
+    {
+        "id": "269318",
+        "name": "Голяшка баранья Эколь охлажденная, ~800г",
+        "brand": "ЭКОЛЬ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/800g-golyashka-baranya-ekol-ohl-vu"
+    },
+    {
+        "id": "270307",
+        "name": "Стейк из говядины Taurus Рибай Dry Aged категории А, 350г",
+        "brand": "TAURUS",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-13%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/350g-steyk-ribay-taurus-dry-aged-ohl-vu"
+    },
+    {
+        "id": "228308",
+        "name": "Окорок свиной АгроЭко без кости охлажденный, ~9кг",
+        "brand": "АГРОЭКО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/9kg-okorok-svinoy-agroeko-bk-ohl-vu"
+    },
+    {
+        "id": "305602",
+        "name": "Рулька Останкино свиная охлажденная, ~1.04кг",
+        "brand": "ОСТАНКИНО",
+        "current_price": 329.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 329.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 299.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/rulka-vakuumnaya-upakovka-ostankino"
+    },
+    {
+        "id": "654466",
+        "name": "Стейк Primebeef Нью-Йорк охлажденный говяжий, 400г",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-prajmbif-nyu-jork-govyazhij-mramornyj-400-g"
+    },
+    {
+        "id": "96157",
+        "name": "Лопатка Ближние горки свиная TF охлажденная, 1кг",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/lopatka-blizhnie-gorki-v-vakuumnoj-upakovke-1-kg"
+    },
+    {
+        "id": "521168",
+        "name": "Ростбиф говяжий Мираторг охлажденный, ~900г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/rostbif-govyazhij-miratorg"
+    },
+    {
+        "id": "616835",
+        "name": "Вырезка говяжья Мираторг Choice охлажденная, ~2.5кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/vyrezka-govyazhya-choice-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "521158",
+        "name": "Покромка Мираторг говяжья охлажденная, ~900г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-12%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/pokromka-govyazhya-v-u-miratorg"
+    },
+    {
+        "id": "271776",
+        "name": "Говядина в брусничном соусе охлажденная, ~800г",
+        "brand": "Без бренда",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/800g-govyadina-v-brusnichnom-souse-ohl-vu"
+    },
+    {
+        "id": "637636",
+        "name": "Кострец Мираторг из телятины охлажденный, ~1.8кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/kostrec-iz-miratorg-v-u"
+    },
+    {
+        "id": "573745",
+        "name": "Филе бедра Мираторг говяжье Пиканья охлажденное, ~2кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/file-bedra-miratorg-pikanya-govyazhye"
+    },
+    {
+        "id": "348046",
+        "name": "Корейка свиная Мираторг на кости без позвоночника охлажденная, ~5.44кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/korejka-na-kosti-bez-pozvonochnika-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "269084",
+        "name": "Окорок АгроЭко для запекания охлажденный, ~1.1кг",
+        "brand": "АГРОЭКО",
+        "current_price": 524.0,
+        "old_price": 589.01,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 524.0,
+                "old_price": 589.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/11kg-okorok-agroeko-dlya-zapekaniya-ohl-vu"
+    },
+    {
+        "id": "212623",
+        "name": "Каре молодого барашка Bazarco Халяль 8 ребер охлажденное, ~800г",
+        "brand": "BAZARCO",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/1kg-kare-8-reber-bazarco-ohl-vu"
+    },
+    {
+        "id": "667703",
+        "name": "Грудинка Мираторг говяжья без кости охлажденная, 800г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/grudinka-govyazhya-bez-kosti-800g"
+    },
+    {
+        "id": "238405",
+        "name": "Окорок из свинины Диета18 без кости охлажденные, ~1кг",
+        "brand": "ДИЕТА18",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-okorok-svinina-dieta18-bk-vu-ohl"
+    },
+    {
+        "id": "272865",
+        "name": "Окорок ягненка Мираторг Халяль из молочного ягненка на кости охлажденный, ~1.9кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/19kg-okorok-yagnenka-miratorg-molochnyy-yagnen-nk-halyal-ohl"
+    },
+    {
+        "id": "236940",
+        "name": "Стейк говяжий без кости Myasoet Meat Company Нью-Йорк охлажденный, 400г",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-13%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400g-steyk-nyu-york-exclusive-myasoet-meat-company-vu-ohl"
+    },
+    {
+        "id": "269083",
+        "name": "Лопатка АгроЭко по-итальянски охлажденная, ~1.1кг",
+        "brand": "АГРОЭКО",
+        "current_price": 379.01,
+        "old_price": 559.0,
+        "discount": "-32%",
+        "offline_prices": [
+            {
+                "actual_price": 379.01,
+                "old_price": 559.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/11kg-lopatka-agroeko-po-italyanski-ohl-vu"
+    },
+    {
+        "id": "530547",
+        "name": "Вырезка говяжья Мираторг Prime охлажденная, ~2.5кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/vyrezka-zachischennaya-prime-miratorg"
+    },
+    {
+        "id": "590713",
+        "name": "Мякоть боковой части бедра говядины Заречное охлажденная, ~1.13кг",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myakot-zarechnoe-bokovoj-chasti-bedra-v-u"
+    },
+    {
+        "id": "135835",
+        "name": "Вырезка говяжья Мираторг Matured Beef с цепочкой без кости охлажденная, ~2.5кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/vyrezka-govyazhya-matured-s-tsepochkoy-bez-kosti-1kg"
+    },
+    {
+        "id": "658362",
+        "name": "Стейк Мираторг Пиканья skin из говядины, 325г",
+        "brand": "МИРАТОРГ",
+        "current_price": 495.0,
+        "old_price": 629.0,
+        "discount": "-21%",
+        "offline_prices": [
+            {
+                "actual_price": 495.0,
+                "old_price": 629.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-pikanya-govyazhij-skin-miratorg-325g"
+    },
+    {
+        "id": "79633",
+        "name": "Ребрышки Черкизово свиные классические, ~1.1кг",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": 589.01,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 589.01,
+                "old_price": null
+            },
+            {
+                "actual_price": 518.97,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/rebryshki-svinye-delikatesnye-cherkizovo-11kg-79633"
+    },
+    {
+        "id": "272691",
+        "name": "Стейк из свиной корейки Самсон в маринаде, 400г",
+        "brand": "САМСОН",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/steyk-iz-svinoy-koreyki-samson-v-marinade-400g"
+    },
+    {
+        "id": "38580",
+        "name": "Тазобедренная часть голяшки Dorper Мираторг на кости охлажденная, ~3кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/chast-yagnyonka-tazobedrennaya-s-golyashkoj-na-kosti-na-kozhe-ohlazhdennaya-vakuumnaya-upakovka"
+    },
+    {
+        "id": "658994",
+        "name": "Стейк Мираторг Рибай говяжий охлажденный, 320г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-17%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-ribaj-iz-mramornoj-miratorg-320g"
+    },
+    {
+        "id": "213029",
+        "name": "Лопатки кролика Мазайцево в сливочном маринаде охлажденные, ~1кг",
+        "brand": "МАЗАЙЦЕВО",
+        "current_price": 849.0,
+        "old_price": 899.0,
+        "discount": "-6%",
+        "offline_prices": [
+            {
+                "actual_price": 849.0,
+                "old_price": 899.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/1kg-lopatki-krolika-v-slivochnom-marinade-mazaytsevo-ohl"
+    },
+    {
+        "id": "60732",
+        "name": "Рибай говяжий Мираторг prime без кости охлажденный, ~1кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-22%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/ribaj-govyazhij-prime-bez-kosti-vakuumnaya-upakovka-miratorg-1kg-60732"
+    },
+    {
+        "id": "272618",
+        "name": "METRO Chef Телятина для запекания охлажденная, ~800г",
+        "brand": "METRO CHEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-20%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/metro-chef-telyatina-dlya-zapekaniya-ohlazhdennaya-800g"
+    },
+    {
+        "id": "118362",
+        "name": "Огузок говяжий Эколь Халяль охлажденный, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 569.0,
+        "old_price": 599.01,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 569.0,
+                "old_price": 599.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400-g-oguzok-govyazhij-ekol-ohl-gaz-halyal"
+    },
+    {
+        "id": "54767",
+        "name": "Ребрышки Мясо есть! телячьи охлажденные, 400г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 350.0,
+        "old_price": 369.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 350.0,
+                "old_price": 369.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/rebryshki-telyachi-okhlazhdennye-myaso-est-400g"
+    },
+    {
+        "id": "131354",
+        "name": "Котлетное мясо из говядины Вахавяк Плюс бескостное 80/20 охлажденное",
+        "brand": "ВАХАВЯК ПЛЮС",
+        "current_price": 531.0,
+        "old_price": 579.0,
+        "discount": "-8%",
+        "offline_prices": [
+            {
+                "actual_price": 531.0,
+                "old_price": 579.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/kotletnoe-myaso-gov-b-k-ohl-v-u"
+    },
+    {
+        "id": "118361",
+        "name": "Набор из говядины для супа Эколь Халяль охлажденный, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 204.0,
+        "old_price": 215.01,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 204.0,
+                "old_price": 215.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400-g-supovoj-nabor-govyazhij-ekol-ohl-gaz-halyal"
+    },
+    {
+        "id": "381811",
+        "name": "Окорок Мираторг свиной без кости охлажденный",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/art-381811"
+    },
+    {
+        "id": "135845",
+        "name": "Стейк Мираторг Matured Beef Рибай охлажденный, 250г",
+        "brand": "МИРАТОРГ",
+        "current_price": 825.0,
+        "old_price": 869.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 825.0,
+                "old_price": 869.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-matured-ribay-ohlazhdennyy-250g"
+    },
+    {
+        "id": "269299",
+        "name": "Лопатка баранья Эколь Халяль на кости охлажденная, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 919.01,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 919.01,
+                "old_price": null
+            },
+            {
+                "actual_price": 873.06,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400g-lopatka-baranya-nk-ekol-halyal-ohl-vu"
+    },
+    {
+        "id": "54812",
+        "name": "Набор суповой Мясо есть! Халяль говяжий охлажденный, 400г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 217.0,
+        "old_price": 259.01,
+        "discount": "-16%",
+        "offline_prices": [
+            {
+                "actual_price": 217.0,
+                "old_price": 259.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/supovoj-nabor-govyazhij-myaso-est-400-g"
+    },
+    {
+        "id": "565627",
+        "name": "Ребра говяжьи Заречное охлажденные, ~1.9кг",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": 946.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 946.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/rebra-govyazhyi-vakuumnaya-upakovka-zarechnoe"
+    },
+    {
+        "id": "274645",
+        "name": "Часть говяжья лопаточная Вахавяк Плюс фирменная охлажденная, 800г",
+        "brand": "ВАХАВЯК ПЛЮС",
+        "current_price": 779.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 779.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 740.05,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/chast-govyazhya-lopatochnaya-vahavyak-plyus-firmennaya-ohlazhdennaya-800g"
+    },
+    {
+        "id": "234833",
+        "name": "Окорок свиной Образцово охлажденный, ~1кг",
+        "brand": "ОБРАЗЦОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/okorok-svinoy-obraztsovo-ohlazhdennyy-1kg"
+    },
+    {
+        "id": "243921",
+        "name": "Ягнятина для запекания Мираторг охлажденная, ~1.3кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/18kg-yagnyatina-dlya-zapekaniya-miratorg-ohl-vu"
+    },
+    {
+        "id": "243258",
+        "name": "Стейк рибай Myasoet Meat Company Exclusive Collection охлажденный, 400г",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-12%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-ribay-myasoet-meat-company-exclusive-collection-ohlazhdennyy-400g"
+    },
+    {
+        "id": "98007",
+        "name": "Ножки кролика Кролъ и К охлажденные, ~600г",
+        "brand": "КРОЛЪ И К",
+        "current_price": 889.0,
+        "old_price": 939.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 889.0,
+                "old_price": 939.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/nozhki-1-kg"
+    },
+    {
+        "id": "267165",
+        "name": "Стейк из говядины Вагю Мираторг Сузутани, 190г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/190g-steyk-suzutani-miratorg-wagyu-ohl"
+    },
+    {
+        "id": "234834",
+        "name": "Шейка свиная Образцово охлажденная, ~1кг",
+        "brand": "ОБРАЗЦОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/sheyka-svinaya-obraztsovo-ohlazhdennaya-1kg"
+    },
+    {
+        "id": "4653",
+        "name": "Лопатка баранья Мясо есть! Халяль без кожи охлажденная, ~1.3кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/lopatka-bez-kozhi-v-setke-vakuumnaya-upakovka-myaso-est"
+    },
+    {
+        "id": "260015",
+        "name": "Отруб поясничный Primebeef Халяль Экстра без кости охлажденный, ~5кг",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/5kg-poyasnichnyy-otrub-primebeef-ekstra-bk-halyal-vu-ohl"
+    },
+    {
+        "id": "521157",
+        "name": "Мускул глазной Мираторг говяжий, ~2.4кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/glaznoj-muskul-govyazhij-521157"
+    },
+    {
+        "id": "110604",
+        "name": "Стейк Черкизово Чалагач из свинины на кости охлажденный, 350г",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/stejk-na-kosti-chalagach-ohlazhdennyj-cherkizovo-350g"
+    },
+    {
+        "id": "270340",
+        "name": "Мясо Ближние горки в соусе терияки охлажденное, ~850г",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": 439.0,
+        "old_price": 619.0,
+        "discount": "-29%",
+        "offline_prices": [
+            {
+                "actual_price": 439.0,
+                "old_price": 619.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/850g-myaso-blizhnie-gorki-v-souse-teriyaki-ohl-vu"
+    },
+    {
+        "id": "260458",
+        "name": "Часть тазобедренная говяжья Вахавяк Плюс фирменная охлажденная, 600г",
+        "brand": "ВАХАВЯК ПЛЮС",
+        "current_price": 499.0,
+        "old_price": 629.0,
+        "discount": "-21%",
+        "offline_prices": [
+            {
+                "actual_price": 499.0,
+                "old_price": 629.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/600g-tazobedrennaya-chast-gov-vahavyak-plyus-firmennaya-vu-ohl"
+    },
+    {
+        "id": "95973",
+        "name": "Стейк Мираторг Black Angus Томагавк из говядины охлажденный",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-7%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-tomagavk-miratorg-black-angus-v-vakuumnoj-upakovke-95973"
+    },
+    {
+        "id": "127966",
+        "name": "Рулька свиная Филье Проперти на кости в шкуре охлажденная, ~1.3кг",
+        "brand": "ФИЛЬЕ ПРОПЕРТИ",
+        "current_price": 299.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 299.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 269.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/rulka-filye-properti-na-kosti-v-shkure"
+    },
+    {
+        "id": "118364",
+        "name": "Говядина духовая Эколь Халяль охлажденная, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 550.0,
+        "old_price": 579.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 550.0,
+                "old_price": 579.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400-g-duhovaya-ekol-ohl-gaz-halyal"
+    },
+    {
+        "id": "530545",
+        "name": "Край толстый Мираторг Prime говяжий зачищенный, ~5.4кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/prime-tolstyj-kraj-zachischennaya-miratorg"
+    },
+    {
+        "id": "269089",
+        "name": "Ребрышки АгроЭко пряные охлажденные, ~1.2кг",
+        "brand": "АГРОЭКО",
+        "current_price": 439.0,
+        "old_price": 589.01,
+        "discount": "-25%",
+        "offline_prices": [
+            {
+                "actual_price": 439.0,
+                "old_price": 589.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/12kg-rebryshki-agroeko-pryanye-ohl-vu"
+    },
+    {
+        "id": "235921",
+        "name": "METRO Chef Мякоть бедра из фермерской телятины, 800г",
+        "brand": "METRO CHEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/800g-myakot-bedra-metro-chef-iz-fermerskoy-telyatiny-ohl"
+    },
+    {
+        "id": "654463",
+        "name": "Стейк Primebeef Дэнвер из мраморной говядины охлажденный, 400г",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-prajmbif-denver-govyazhij-mramornyj-400-g"
+    },
+    {
+        "id": "205774",
+        "name": "Ребра Мираторг говяжьи Black Angus охлажденные, ~1кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-rebra-miratorg-govyazhi-black-angus-ohl-vu"
+    },
+    {
+        "id": "269916",
+        "name": "Грудинка Коралл ООО на кости в шкуре охлажденная, ~1кг",
+        "brand": "КОРАЛЛ ООО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/grudinka-korall-ooo-na-kosti-v-shkure-ohlazhdennaya-1kg"
+    },
+    {
+        "id": "242741",
+        "name": "Стейк говяжий Домашний Ресторатор Рибай охлажденный, 350г",
+        "brand": "ДОМАШНИЙ РЕСТОРАТОР",
+        "current_price": 759.0,
+        "old_price": 799.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 759.0,
+                "old_price": 799.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-govyazhiy-domashniy-restorator-ribay-ohlazhdennyy-350g"
+    },
+    {
+        "id": "611036",
+        "name": "Стейк Мираторг Prime Skin Стриплойн из мраморной говядины, 640г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-28%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-striplojn-miratorg-prime-skin-640g"
+    },
+    {
+        "id": "236261",
+        "name": "METRO Chef Эскалоп свиной бескостный охлажденный, 600г",
+        "brand": "METRO CHEF",
+        "current_price": 389.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 389.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 369.55,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/metro-chef-eskalop-svinoy-beskostnyy-ohlazhdennyy-600g"
+    },
+    {
+        "id": "214309",
+        "name": "Рибай Мираторг Matured зачищенный охлажденный, ~5.8кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/58kg-ribay-zachischennyy-miratorg-matured-ohl-vu"
+    },
+    {
+        "id": "271828",
+        "name": "Сувлаки Слово мясника охлажденные, ~1.3кг",
+        "brand": "СЛОВО МЯСНИКА",
+        "current_price": 431.0,
+        "old_price": 539.0,
+        "discount": "-20%",
+        "offline_prices": [
+            {
+                "actual_price": 431.0,
+                "old_price": 539.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/13kg-suvlaki-slovo-myasnika-ohl-vu"
+    },
+    {
+        "id": "269879",
+        "name": "Антрекот говяжий Мясо есть! для запекания охлажденный, 600г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/antrekot-govyazhiy-myaso-est-dlya-zapekaniya-ohlazhdennyy-600g"
+    },
+    {
+        "id": "40516",
+        "name": "Окорок свиной Черкизово охлажденный, ~1кг",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/okorok-svinoj-cherkizovo-40516"
+    },
+    {
+        "id": "548885",
+        "name": "Окорок бараний Мясо есть! без кости охлажденный, ~800г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/okorok-bez-kozhi-vakuumnaya-upakovka-myaso-est"
+    },
+    {
+        "id": "252600",
+        "name": "Шницель свиной Самсон охлажденный, 400г",
+        "brand": "САМСОН",
+        "current_price": 329.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 329.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 312.55,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/shnitsel-svinoy-samson-ohlazhdennyy-400g"
+    },
+    {
+        "id": "328746",
+        "name": "Ребрышки Мираторг Деликатесные свиные охлажденные",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/rebryshki-svinye-delikatesnye-miratorg"
+    },
+    {
+        "id": "270335",
+        "name": "Лопатка Ближние горки в пряно-сливочном соусе охлажденная, ~1.25кг",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": 419.0,
+        "old_price": 559.0,
+        "discount": "-25%",
+        "offline_prices": [
+            {
+                "actual_price": 419.0,
+                "old_price": 559.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/125kg-lopatka-blizhnie-gorki-v-pryano-slivochnom-souse-ohl-vu"
+    },
+    {
+        "id": "269261",
+        "name": "Свинина Черкизово По-Шанхайски в кисло-сладком соусе, 1кг",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": 549.0,
+        "old_price": 609.0,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": 549.0,
+                "old_price": 609.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/1kg-svinina-cherkizovo-po-shanhayski-v-kislo-sladkom-souse-vu"
+    },
+    {
+        "id": "574101",
+        "name": "Ребра Заречное Кальби говяжьи охлажденные, ~450г",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": 939.0,
+        "old_price": null,
+        "discount": "-9%",
+        "offline_prices": [
+            {
+                "actual_price": 939.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/rebra-kalbi-zarechnoe"
+    },
+    {
+        "id": "8762",
+        "name": "Стейк Мясо есть! Филе-миньон Skin говяжий, 300г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 882.0,
+        "old_price": 979.0,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": 882.0,
+                "old_price": 979.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-file-minon-govyazhij-skin-myaso-est-300-g"
+    },
+    {
+        "id": "260457",
+        "name": "Часть лопаточная говяжья Вахавяк Плюс фирменная охлажденная, 600г",
+        "brand": "ВАХАВЯК ПЛЮС",
+        "current_price": 515.0,
+        "old_price": 579.01,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 515.0,
+                "old_price": 579.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/600g-lopatochnaya-chast-govyazhya-vahavyak-plyus-firmennaya-vu-ohl"
+    },
+    {
+        "id": "639771",
+        "name": "Стейк Бавет из мраморной говядины Мираторг охлажденный, 310г",
+        "brand": "МИРАТОРГ",
+        "current_price": 645.0,
+        "old_price": 679.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 645.0,
+                "old_price": 679.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-iz-mramornoj-miratorg-bavet-310-g"
+    },
+    {
+        "id": "238380",
+        "name": "Карбонад из свинины Диета18 без кости охлажденный, ~1кг",
+        "brand": "ДИЕТА18",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-karbonad-svinina-dieta18-bk-vu-ohl"
+    },
+    {
+        "id": "236533",
+        "name": "Ножка телячья Мираторг для запекания охлажденная, ~1.6кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/nozhka-telyachya-miratorg-dlya-zapekaniya-ohlazhdennaya-16kg"
+    },
+    {
+        "id": "521167",
+        "name": "Оковалок говяжий Мираторг охлажденный, ~4.6кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/okovalok-govyazhij-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "637632",
+        "name": "Блейд из телятины Мираторг охлажденный, ~1.5кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/blejd-iz-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "258586",
+        "name": "Курдюк ягненка Мясо есть! Халяль охлажденный, ~0.7кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/07kg-kurdyuk-yagnenka-myaso-est-halyal-ohl-vu"
+    },
+    {
+        "id": "575398",
+        "name": "Мякоть лопатки говяжья Заречное охлажденная, ~950г",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": 806.0,
+        "old_price": null,
+        "discount": "-24%",
+        "offline_prices": [
+            {
+                "actual_price": 806.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myakot-lopatki-govyazhya-vakuumnaya-upakovka-zarechnoe"
+    },
+    {
+        "id": "260016",
+        "name": "Отруб спинной говяжий Primebeef Халяль без кости охлажденный, ~5кг",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/5kg-spinnoy-otrub-gov-primebeef-ekstra-bk-halyal-vu-ohl"
+    },
+    {
+        "id": "275789",
+        "name": "Окорочка кролика Мазайцево в сливочном маринаде охлажденные, ~600г",
+        "brand": "МАЗАЙЦЕВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/okorochka-krolika-mazaytsevo-v-slivochnom-marinade-ohlazhdennye-600g-275789"
+    },
+    {
+        "id": "659405",
+        "name": "Корейка Самсон Лапландия свиная с ягодами брусники, ~850г",
+        "brand": "САМСОН",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/korejka-laplandiya-samson-s-yagodami-brusniki"
+    },
+    {
+        "id": "258590",
+        "name": "Окорок ягненка Мясо есть! Халяль охлажденный, ~1кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/1kg-okorok-yagnenka-myaso-est-halyal-ohl-vu"
+    },
+    {
+        "id": "637420",
+        "name": "Стейк Мираторг Black Angus Денвер говяжий охлажденный, 290г",
+        "brand": "МИРАТОРГ",
+        "current_price": 960.0,
+        "old_price": null,
+        "discount": "-13%",
+        "offline_prices": [
+            {
+                "actual_price": 960.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-govyazhij-miratorg-denver-290g"
+    },
+    {
+        "id": "104884",
+        "name": "Филе кролика Кролъ и К охлажденное, 500г",
+        "brand": "КРОЛЪ И К",
+        "current_price": 589.01,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 589.01,
+                "old_price": null
+            },
+            {
+                "actual_price": 528.99,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/file-k-500g"
+    },
+    {
+        "id": "272580",
+        "name": "METRO Chef Бефстроганов говяжий для запекания охлажденный, 600г",
+        "brand": "METRO CHEF",
+        "current_price": 655.0,
+        "old_price": 819.01,
+        "discount": "-20%",
+        "offline_prices": [
+            {
+                "actual_price": 655.0,
+                "old_price": 819.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/metro-chef-befstroganov-govyazhiy-dlya-zapekaniya-ohlazhdennyy-600g"
+    },
+    {
+        "id": "270336",
+        "name": "Мясо Ближние горки со специями охлажденное, ~650г",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": 439.0,
+        "old_price": 599.01,
+        "discount": "-27%",
+        "offline_prices": [
+            {
+                "actual_price": 439.0,
+                "old_price": 599.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/125kg-myaso-blizhnie-gorki-so-spetsiyami-ohl-vu"
+    },
+    {
+        "id": "381779",
+        "name": "Рулька Мираторг свиная со специями в маринаде",
+        "brand": "МИРАТОРГ",
+        "current_price": 389.0,
+        "old_price": 469.0,
+        "discount": "-17%",
+        "offline_prices": [
+            {
+                "actual_price": 389.0,
+                "old_price": 469.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/art-381779"
+    },
+    {
+        "id": "628364",
+        "name": "Вырезка Мираторг из телятины незачищенная охлажденная, ~1.1кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/vyrezka-iz-nezachischennaya-vakuumnaya-upakovka"
+    },
+    {
+        "id": "97479",
+        "name": "Окорок свиной Черкизово без кости охлажденный, ~9.5кг",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/okorok-svinoj-bez-kosti-1-kg"
+    },
+    {
+        "id": "228306",
+        "name": "Лопатка свиная АгроЭко без кости охлажденная, ~5.8кг",
+        "brand": "АГРОЭКО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/58kg-lopatka-svinaya-agroeko-bk-ohl-vu"
+    },
+    {
+        "id": "260905",
+        "name": "Голяшка говяжья охлажденная, ~4кг",
+        "brand": "Без бренда",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/4kg-golyashka-govyazhya-vu-ohl"
+    },
+    {
+        "id": "252099",
+        "name": "Стейк из говядины Myasoet Meat Company Меларен в маринаде охлажденный, 200г",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/steyk-iz-govyadiny-myasoet-meat-company-melaren-v-marinade-ohlazhdennyy-200g"
+    },
+    {
+        "id": "128478",
+        "name": "Карбонад Бутчер Люкс из свинины для производства охлажденный",
+        "brand": "БУТЧЕР",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/karbonad-lyuks-iz-d-proizvodstva-ohl-v-u"
+    },
+    {
+        "id": "637637",
+        "name": "Оковалок из телятины Мираторг охлажденный, ~5.2кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/okovalok-iz-ohl-v-u"
+    },
+    {
+        "id": "573746",
+        "name": "Отруб Мираторг Три-тип говяжий",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-7%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/otrub-miratorg-tri-tip-govyazhij"
+    },
+    {
+        "id": "79634",
+        "name": "Ребрышки свиные Черкизово из корейки охлажденный, ~600г",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": 509.0,
+        "old_price": 569.0,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 509.0,
+                "old_price": 569.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/rebryshki-iz-korejki-svinye-cherkizovo-79634"
+    },
+    {
+        "id": "235532",
+        "name": "Филей молодого барашка Bazarco Халяль охлажденный, ~3кг",
+        "brand": "BAZARCO",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/filey-molodogo-barashka-bazarco-ohlazhdennyy-3kg"
+    },
+    {
+        "id": "225527",
+        "name": "Ягнятина для плова Мираторг Dorper охлажденная, 350г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/350g-yagnyatina-dlya-plova-miratorg-ohl"
+    },
+    {
+        "id": "637634",
+        "name": "Шея телячья Мираторг охлажденная, ~3.4кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/sheya-telyachya-vakuumnaya-upakovka"
+    },
+    {
+        "id": "250201",
+        "name": "Мякоть баранины Эколь Халяль охлажденная, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myakot-baraniny-ekol-halyal-ohlazhdennaya-400g"
+    },
+    {
+        "id": "269081",
+        "name": "Буженина АгроЭко по-домашнему охлажденная, ~1.1кг",
+        "brand": "АГРОЭКО",
+        "current_price": 399.0,
+        "old_price": 579.01,
+        "discount": "-31%",
+        "offline_prices": [
+            {
+                "actual_price": 399.0,
+                "old_price": 579.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/11kg-buzhenina-po-domashnemu-agroeko-ohl-vu"
+    },
+    {
+        "id": "274378",
+        "name": "Стейк Myasoet Meat Company Рибай в сливочном масле и травах охлажденный, 250г",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-myasoet-meat-company-ribay-v-slivochnom-masle-i-travah-ohlazhdennyy-250g"
+    },
+    {
+        "id": "560718",
+        "name": "Шея телячья Мясо есть! без кости охлажденная, ~800г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/sheya-telyachya-bez-kosti-vakuumnaya-upakovka-myaso-est"
+    },
+    {
+        "id": "46101",
+        "name": "Ребра говяжьи Primebeef Кальби охлажденные, ~1.1кг",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-20%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/rebra-kalbi-ohlazhdennye-vakuumnaya-upakovka-zarechnoe"
+    },
+    {
+        "id": "219694",
+        "name": "Голяшка говяжья Мясо есть! без кости охлажденная, 600г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 540.0,
+        "old_price": 649.0,
+        "discount": "-17%",
+        "offline_prices": [
+            {
+                "actual_price": 540.0,
+                "old_price": 649.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/600g-golyashka-govyazhya-bez-kosti-myaso-est-ohl-vu"
+    },
+    {
+        "id": "96154",
+        "name": "Окорок Ближние горки свиной охлажденный, ~9.8кг",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": 400.67,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 389.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 359.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/art-96154"
+    },
+    {
+        "id": "271827",
+        "name": "Свинина Слово мясника в греческом маринаде охлажденная, ~1.3кг",
+        "brand": "СЛОВО МЯСНИКА",
+        "current_price": 419.0,
+        "old_price": 519.0,
+        "discount": "-19%",
+        "offline_prices": [
+            {
+                "actual_price": 419.0,
+                "old_price": 519.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/13kg-svinina-slovo-myasnika-v-grecheskom-marinade-ohl-vu"
+    },
+    {
+        "id": "97491",
+        "name": "Карбонад свиной Черкизово без кости охлажденный, ~4кг",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-bez-kosti-1-kg-97491-97491"
+    },
+    {
+        "id": "234832",
+        "name": "Лопатка свиная Образцово охлажденная, ~1кг",
+        "brand": "ОБРАЗЦОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/lopatka-svinaya-obraztsovo-ohlazhdennaya-1kg"
+    },
+    {
+        "id": "258423",
+        "name": "Стейк из говядины Мираторг Фермерский бычок Классик охлажденный, 340г",
+        "brand": "МИРАТОРГ",
+        "current_price": 459.0,
+        "old_price": 545.01,
+        "discount": "-16%",
+        "offline_prices": [
+            {
+                "actual_price": 459.0,
+                "old_price": 545.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/340g-steyk-klassik-govyazhiy-fermerskiy-bychok-miratorg-ohl-vu"
+    },
+    {
+        "id": "274647",
+        "name": "Часть говяжья шейная Вахавяк Плюс фирменная охлажденная, 800г",
+        "brand": "ВАХАВЯК ПЛЮС",
+        "current_price": 709.01,
+        "old_price": 749.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 709.01,
+                "old_price": 749.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/chast-govyazhya-sheynaya-vahavyak-plyus-firmennaya-ohlazhdennaya-800g"
+    },
+    {
+        "id": "628360",
+        "name": "Корейка Мираторг из телятины на ребрах зачищенная охлажденная",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/korejka-iz-na-rebrah-zachischennaya-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "228305",
+        "name": "Карбонад свиной АгроЭко без кости охлажденный, ~3.9кг",
+        "brand": "АГРОЭКО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoy-agroeko-bez-kosti-ohlazhdennyy-4kg"
+    },
+    {
+        "id": "135846",
+        "name": "Стейк Мираторг Matured Beef Стриплойн охлажденный, 250г",
+        "brand": "МИРАТОРГ",
+        "current_price": 569.0,
+        "old_price": 649.0,
+        "discount": "-12%",
+        "offline_prices": [
+            {
+                "actual_price": 569.0,
+                "old_price": 649.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-matured-striployn-ohlazhdennyy-250g"
+    },
+    {
+        "id": "96147",
+        "name": "Лопатка Ближние горки свиная охлажденная, ~6.2кг",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/lopatka-vakuumnaya-upakovka-dmitrogorskij-produkt"
+    },
+    {
+        "id": "226165",
+        "name": "Стейк из мраморной говядины Мираторг Ти-Бон Choice Black Angus, ~600г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/600g-steyk-miratorg-ti-bon-choice-black-angus-ohl-vu"
+    },
+    {
+        "id": "235923",
+        "name": "METRO Chef Шейка бескостная из фермерской телятины, 800г",
+        "brand": "METRO CHEF",
+        "current_price": 989.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 989.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 899.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/800g-sheyka-beskostnaya-metro-chef-iz-fermerskoy-telyatiny-ohl"
+    },
+    {
+        "id": "106362",
+        "name": "Стейк Primebeef Минутка из говядины охлажденный, 400г",
+        "brand": "PRIMEBEEF",
+        "current_price": 654.01,
+        "old_price": 749.0,
+        "discount": "-13%",
+        "offline_prices": [
+            {
+                "actual_price": 654.01,
+                "old_price": 749.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-minutka-iz-prajmbif-v-vakuumnoj-upakovke-400-g"
+    },
+    {
+        "id": "122744",
+        "name": "Корейка из баранины Эколь Халяль охлажденная, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": 909.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/korejka-iz-ekol-v-lotke-400-g"
+    },
+    {
+        "id": "532573",
+        "name": "Говядина для запекания Primebeef охлажденная, ~500г",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/dlya-zapekaniya-prajmbif"
+    },
+    {
+        "id": "269923",
+        "name": "Окорок Pignic фирменный в маринаде охлажденный, ~1кг",
+        "brand": "PIGNIC",
+        "current_price": 479.0,
+        "old_price": 539.0,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 479.0,
+                "old_price": 539.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/okorok-pignic-firmennyy-v-marinale-ohlazhdennyy-1kg"
+    },
+    {
+        "id": "250204",
+        "name": "Антрекот говяжий Эколь Халяль для стейка охлажденный, ~800г",
+        "brand": "ЭКОЛЬ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/antrekot-govyazhiy-ekol-halyal-dlya-steyka-ohlazhdennyy-800g"
+    },
+    {
+        "id": "275510",
+        "name": "Ребра говяжьи Мясо есть! Кальби охлажденные, ~1.7кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/rebra-govyazhi-myaso-est-kalbi-ohlazhdennye-17kg"
+    },
+    {
+        "id": "97481",
+        "name": "Лопатка свиная Черкизово без кости охлажденная, ~5кг",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": 390.38,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 379.01,
+                "old_price": null
+            },
+            {
+                "actual_price": 349.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/lopatka-bez-kosti-cherkizovo-vakuumnaya-upakovka"
+    },
+    {
+        "id": "8750",
+        "name": "Стейк Мясо есть! Рибай говяжий, 250г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 597.0,
+        "old_price": 669.0,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 597.0,
+                "old_price": 669.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-ribaj-myaso-est-govyazhij-250g"
+    },
+    {
+        "id": "106351",
+        "name": "Стейк Primebeef Яблочко из говядины охлажденный, 400г",
+        "brand": "PRIMEBEEF",
+        "current_price": 899.0,
+        "old_price": 949.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 899.0,
+                "old_price": 949.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-yablochko-iz-prajmbif-v-vakuumnoj-upakovke-400"
+    },
+    {
+        "id": "121467",
+        "name": "Стейк Веско Минутка из говядины, 210г",
+        "brand": "ВЕСКО",
+        "current_price": 303.0,
+        "old_price": 359.01,
+        "discount": "-16%",
+        "offline_prices": [
+            {
+                "actual_price": 303.0,
+                "old_price": 359.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/210g-stejk-minutka-vesko-ohl"
+    },
+    {
+        "id": "232431",
+        "name": "Свинина по-дижонски Черкизово охлажденная, 700г",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": 319.0,
+        "old_price": 379.02,
+        "discount": "-16%",
+        "offline_prices": [
+            {
+                "actual_price": 319.0,
+                "old_price": 379.02
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/700g-svinina-po-dizhonski-cherkizovo-tf-ohl"
+    },
+    {
+        "id": "642233",
+        "name": "Карбонад Слово мясника свиной без кожи охлажденный",
+        "brand": "СЛОВО МЯСНИКА",
+        "current_price": 449.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 449.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 409.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-bez-kozhi-slovo-myasnika"
+    },
+    {
+        "id": "234831",
+        "name": "Карбонад свиной Образцово охлажденный, ~1кг",
+        "brand": "ОБРАЗЦОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoy-obraztsovo-ohlazhdennyy-1kg"
+    },
+    {
+        "id": "40556",
+        "name": "Лопатка Черкизово свиная",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/lopatka-cherkizovo"
+    },
+    {
+        "id": "234840",
+        "name": "Вырезка свиная Образцово охлажденная, ~300г",
+        "brand": "ОБРАЗЦОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/vyrezka-svinaya-obraztsovo-ohlazhdennaya-300g"
+    },
+    {
+        "id": "381780",
+        "name": "Карбонад свиной Мираторг в маринаде охлажденный",
+        "brand": "МИРАТОРГ",
+        "current_price": 588.01,
+        "old_price": 619.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 588.01,
+                "old_price": 619.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-miratorg-marinovannyj-b-k"
+    },
+    {
+        "id": "253611",
+        "name": "Стейк из шейки АгроЭко Duroc мраморный охлажденный, 400г",
+        "brand": "АГРОЭКО",
+        "current_price": 549.0,
+        "old_price": 579.01,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 549.0,
+                "old_price": 579.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-iz-sheyki-agroeko-duroc-mramornyy-ohlazhdennyy-400g"
+    },
+    {
+        "id": "237448",
+        "name": "Медальоны Мираторг в кавказском маринаде охлажденные, ~1.2кг",
+        "brand": "МИРАТОРГ",
+        "current_price": 645.0,
+        "old_price": 679.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 645.0,
+                "old_price": 679.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/medalyony-miratorg-v-kavkazskom-marinade-ohlazhdennye-12kg"
+    },
+    {
+        "id": "97503",
+        "name": "Мякоть Мираторг телятины для тушения охлажденная, 600г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/myakot-miratorg-dlya-tusheniya-600-g"
+    },
+    {
+        "id": "637639",
+        "name": "Часть бедра внешняя из телятины Мираторг охлажденная, ~3.3кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/vneshnyaya-chast-bedra-iz-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "628352",
+        "name": "Вырезка телячья Мираторг из лопатки, ~800г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/vyrezka-iz-lopatki-iz-v-u"
+    },
+    {
+        "id": "135849",
+        "name": "Стейк Мираторг Matured Beef Чак ролл Skin охлажденный, 650г",
+        "brand": "МИРАТОРГ",
+        "current_price": 844.0,
+        "old_price": 889.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 844.0,
+                "old_price": 889.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-matured-chak-roll-skin-ohlazhdennyy-250g"
+    },
+    {
+        "id": "258403",
+        "name": "Корейка ягненка Мясо есть! Халяль охлажденная, 400г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/koreyka-yagnenka-myaso-est-halyal-ohlazhdennaya-400g"
+    },
+    {
+        "id": "122746",
+        "name": "Шейка баранья Эколь Халяль охлажденная, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 399.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 399.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 355.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/shejka-ekol-v-lotke-400-g"
+    },
+    {
+        "id": "249709",
+        "name": "Ребрышки свиные Ближние горки для запекания Пряные В пикантном соусе, ~1кг",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-rebryshki-svin-blizhnie-gorki-dzapekaniya-pryanye-vu-ohl"
+    },
+    {
+        "id": "590710",
+        "name": "Мякоть пашины говяжья Primebeef Флэнк охлажденная, ~900г",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-16%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myakot-pashiny-flenk-govyazhij-vakuumnaya-upakovka-zarechnoe"
+    },
+    {
+        "id": "274376",
+        "name": "Стейк Myasoet Meat Company Нью Йорк в сливочном масле с травами охлажденный, 250г",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": 959.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 959.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 911.05,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-myasoet-meat-company-nyu-york-v-slivochnom-masle-s-travami-ohlazhdennyy-250g"
+    },
+    {
+        "id": "216857",
+        "name": "Свинина Черкизово на хрящиках с чесноком и зеленью охлажденная, ~800г",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": 409.0,
+        "old_price": 449.0,
+        "discount": "-9%",
+        "offline_prices": [
+            {
+                "actual_price": 409.0,
+                "old_price": 449.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/svinina-cherkizovo-na-hryaschikah-s-chesnokom-i-zelenyu-ohlazhdennaya-800g"
+    },
+    {
+        "id": "637638",
+        "name": "Часть бедра внутренняя из телятины Мираторг охлажденная, ~4.6кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/vnutrennyaya-chast-bedra-iz-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "272911",
+        "name": "Мякоть бедра Мираторг Халяль из молочного ягненка охлажденная, ~500г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/500g-myakot-bedra-miratorg-molochnyy-yagnenok-halyal-ohl"
+    },
+    {
+        "id": "269300",
+        "name": "Окорок бараний Эколь Халяль охлажденный, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400g-okorok-baraniy-ekol-halyal-ohl-vu"
+    },
+    {
+        "id": "236536",
+        "name": "Стейк из окорока ягнятины Мираторг Dorper в маринаде охлажденный, 380г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/steyk-iz-okoroka-yagnyatiny-miratorg-dorper-v-marinade-ohlazhdennyy-380g"
+    },
+    {
+        "id": "548539",
+        "name": "Край толстый Мираторг Choice говяжий без кости зачищенный, ~2.6кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/tolstyj-kraj-choice-bez-kosti-zachischennyj-v-vakuumnoj-upakovke"
+    },
+    {
+        "id": "131356",
+        "name": "Тазобедренная часть говяжья Вахавяк Плюс без кости охлажденная, ~4кг",
+        "brand": "ВАХАВЯК ПЛЮС",
+        "current_price": 797.01,
+        "old_price": 879.0,
+        "discount": "-9%",
+        "offline_prices": [
+            {
+                "actual_price": 797.01,
+                "old_price": 879.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/tazobedrennaya-chast-b-k-ohl-v-u"
+    },
+    {
+        "id": "40563",
+        "name": "Карбонад Черкизово свиной охлажденный",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-cherkizovo-09-11kg-40563"
+    },
+    {
+        "id": "529474",
+        "name": "Блейд говяжий Мираторг охлажденный, ~2.9кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-7%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/blejd-iz-vakuumnaya-upakovka"
+    },
+    {
+        "id": "381864",
+        "name": "Карбонад Мираторг свиной без кости охлажденный",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-bez-kozhi-podlozhka-miratorg"
+    },
+    {
+        "id": "89222",
+        "name": "Голяшка Мираторг говяжья без кости охлажденная, ~2.2кг",
+        "brand": "МИРАТОРГ",
+        "current_price": 698.01,
+        "old_price": 779.0,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": 698.01,
+                "old_price": 779.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/golyashka-govyazhya-bez-kosti-miratorg-89222"
+    },
+    {
+        "id": "104798",
+        "name": "Ребрышки свиные Самсон Чешские в маринаде охлажденные",
+        "brand": "САМСОН",
+        "current_price": 609.0,
+        "old_price": 669.0,
+        "discount": "-9%",
+        "offline_prices": [
+            {
+                "actual_price": 609.0,
+                "old_price": 669.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/rebryshki-svinye-samson-04-08-kg"
+    },
+    {
+        "id": "518928",
+        "name": "Мякоть лопатки из говядины Primebeef охлажденная, ~600г",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-17%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myakot-lopatki-zarechnoe"
+    },
+    {
+        "id": "642230",
+        "name": "Лопатка Слово мясника свиная охлажденная",
+        "brand": "СЛОВО МЯСНИКА",
+        "current_price": 369.01,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 369.01,
+                "old_price": null
+            },
+            {
+                "actual_price": 329.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/lopatka-slovo-myasnika"
+    },
+    {
+        "id": "96156",
+        "name": "Вырезка Ближние горки свиная охлажденная, ~2.6кг",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/art-96156"
+    },
+    {
+        "id": "659403",
+        "name": "Окорок Самсон Финский свиной для запекания, 0.8-1.2кг",
+        "brand": "САМСОН",
+        "current_price": 669.0,
+        "old_price": 709.01,
+        "discount": "-6%",
+        "offline_prices": [
+            {
+                "actual_price": 669.0,
+                "old_price": 709.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myaso-samson-finskij-okorok-dlya-zapekaniya"
+    },
+    {
+        "id": "118370",
+        "name": "Гуляш из баранины Эколь Халяль охлажденный, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 715.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 715.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 639.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400-g-gulyash-iz-ekol-ohl-lotok"
+    },
+    {
+        "id": "662852",
+        "name": "Стейк говяжий Мираторг Минутка охлажденный, 190г",
+        "brand": "МИРАТОРГ",
+        "current_price": 255.0,
+        "old_price": 289.0,
+        "discount": "-12%",
+        "offline_prices": [
+            {
+                "actual_price": 255.0,
+                "old_price": 289.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-miratorg-minutka-190g"
+    },
+    {
+        "id": "575403",
+        "name": "Говядина Заречное наружная часть бедра для запекания охлажденная, ~1.6кг",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": 935.0,
+        "old_price": null,
+        "discount": "-15%",
+        "offline_prices": [
+            {
+                "actual_price": 935.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/naruzhnaya-chast-bedra-vakuumnaya-upakovka-zarechnoe"
+    },
+    {
+        "id": "605950",
+        "name": "Бекон Мираторг Любительский свиной, 260г",
+        "brand": "МИРАТОРГ",
+        "current_price": 185.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 185.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/bekon-svinoj-lyubitelskij-260g"
+    },
+    {
+        "id": "272620",
+        "name": "METRO Chef Рулька деликатесная в маринаде охлажденная, ~1.2кг",
+        "brand": "METRO CHEF",
+        "current_price": 398.0,
+        "old_price": 419.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 398.0,
+                "old_price": 419.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/metro-chef-rulka-delikatesnaya-v-marinade-ohlazhdennaya-12kg"
+    },
+    {
+        "id": "274379",
+        "name": "Стейк Myasoet Meat Company Рибай с чили и тимьяном охлажденный, 250г",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-myasoet-meat-company-ribay-s-chili-i-timyanom-ohlazhdennyy-250g"
+    },
+    {
+        "id": "106346",
+        "name": "Мякоть шеи Primebeef охлажденная, 700г",
+        "brand": "PRIMEBEEF",
+        "current_price": 995.01,
+        "old_price": null,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 995.01,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myakot-shei-prajmbif-700g"
+    },
+    {
+        "id": "590711",
+        "name": "Мякоть верхней части бедра говяжья Primebeef охлажденная, ~810г",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-17%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myakot-prajmbif-verhnej-chasti-bedra"
+    },
+    {
+        "id": "243897",
+        "name": "Лопатка свиная АгроЭко без кости охлажденная, ~1кг",
+        "brand": "АГРОЭКО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-lopatka-svinaya-agroeko-bk-ohl-vu"
+    },
+    {
+        "id": "629035",
+        "name": "Бекон Мираторг из мраморной говядины, 190г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/bekon-iz-mramornoj-miratorg-vakuumnaya-upakovka-190-g"
+    },
+    {
+        "id": "234815",
+        "name": "Вырезка свиная Коралл охлажденная, ~2кг",
+        "brand": "Без бренда",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/vyrezka-svinaya-korall-ohlazhdennaya-2kg"
+    },
+    {
+        "id": "82939",
+        "name": "Стейк Мираторг Стриплойн говяжий охлажденный, 320г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/stejk-govyazhij-miratorg-striplojn-320g-82939"
+    },
+    {
+        "id": "258588",
+        "name": "Ребрышки ягненка Мясо есть! Халяль охлажденные, ~1.7кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": 979.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/17kg-rebryshki-yagnenka-myaso-est-halyal-ohl-vu"
+    },
+    {
+        "id": "113327",
+        "name": "Лопатка Мясо есть! телячья без кости охлажденная",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/lopatka-telyachya-myaso-est-bez-kosti-vakuumnaya-upakovka"
+    },
+    {
+        "id": "575410",
+        "name": "Мякоть боковой части бедра говяжья Заречное",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": 920.0,
+        "old_price": null,
+        "discount": "-15%",
+        "offline_prices": [
+            {
+                "actual_price": 920.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myakot-bokovoj-chasti-bedra-vakuumnaya-upakovka-zarechnoe"
+    },
+    {
+        "id": "238403",
+        "name": "Шейка свиная Диета18 без кости охлажденная, ~1кг",
+        "brand": "ДИЕТА18",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-sheya-svinina-dieta18-bk-vu-ohl"
+    },
+    {
+        "id": "580944",
+        "name": "Лопатка Останкино свиная без кости",
+        "brand": "ОСТАНКИНО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/lopatka-ostankino-bez-kosti"
+    },
+    {
+        "id": "206727",
+        "name": "Лопаточная часть говяжья Вахавяк Плюс фирменная охлажденная, ~2кг",
+        "brand": "ВАХАВЯК ПЛЮС",
+        "current_price": 702.0,
+        "old_price": 779.0,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": 702.0,
+                "old_price": 779.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/2kg-lopatochnaya-chast-govyazhya-firmennaya-ohlazhdennaya-vu-vp"
+    },
+    {
+        "id": "60804",
+        "name": "Стейк Мираторг из телячьей печени нежный охлажденный, 450г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/stejk-iz-telyachyej-pecheni-miratorg-nezhnyj-450g-60804"
+    },
+    {
+        "id": "236534",
+        "name": "Голяшка говяжья Мираторг фермерский бычок без кости охлажденная, ~2.3кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/golyashka-govyazhya-miratorg-fermeskiy-bychok-ohlazhdennaya-23kg"
+    },
+    {
+        "id": "137203",
+        "name": "Мышца говяжья Вахавяк Плюс пояснично-подвздошная охлажденная, ~1кг",
+        "brand": "ВАХАВЯК ПЛЮС",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-poyasnichno-podvzdoshnaya-myshtsa-vp-vu-ohl"
+    },
+    {
+        "id": "537408",
+        "name": "Огузок Мираторг говяжий",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-7%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/oguzok-govyazhij-mramornyj-miratorg"
+    },
+    {
+        "id": "575416",
+        "name": "Грудинка говяжья Заречное без кости охлажденная, ~1.35кг",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": 787.0,
+        "old_price": 899.0,
+        "discount": "-12%",
+        "offline_prices": [
+            {
+                "actual_price": 787.0,
+                "old_price": 899.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/grudinka-govyazhya-bez-kosti-vakuumnaya-upakovka-zarechnoe"
+    },
+    {
+        "id": "272908",
+        "name": "Котлета Мираторг Халяль из молочного ягненка на кости охлажденная, 280г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/280g-kotleta-na-kosti-miratorg-molochnyy-yagnenok-halyal-ohl"
+    },
+    {
+        "id": "628353",
+        "name": "Голяшка Мираторг телячья для Оссо буко охлажденная",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/golyashka-telyachya-dlya-osso-buko-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "38574",
+        "name": "Голяшка ягненка Мираторг охлажденная",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/golyashka-yagnenka-ohlazhdennaya-38574"
+    },
+    {
+        "id": "207140",
+        "name": "Стейк Мираторг бразильский Black Angus охлажденный, 420г",
+        "brand": "МИРАТОРГ",
+        "current_price": 882.0,
+        "old_price": 929.01,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 882.0,
+                "old_price": 929.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/420g-cteyk-brazilskiy-mirotorg-black-angus-ohl-vu"
+    },
+    {
+        "id": "235922",
+        "name": "METRO Chef Край филейный из фермерской телятины, 800г",
+        "brand": "METRO CHEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/800g-fileynyy-kray-metro-chef-iz-fermerskoy-telyatiny-ohl-vu"
+    },
+    {
+        "id": "246573",
+        "name": "Окорок свиной Филье Проперти бескостный охлажденный, ~9кг",
+        "brand": "ФИЛЬЕ ПРОПЕРТИ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/okorok-svinoy-file-properti-beskostnyy-ohlazhdennyy-9kg"
+    },
+    {
+        "id": "216647",
+        "name": "Грудинка свиная на кости охлажденная, ~1.5кг",
+        "brand": "Без бренда",
+        "current_price": 315.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 315.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 289.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/15kg-grudinka-svinaya-nk-ohl-vu"
+    },
+    {
+        "id": "127770",
+        "name": "Край тонкий говяжий Grand Ana Paula 1/2 зерновой откорм Уругвай охлажденный, ~2кг",
+        "brand": "GRAND ANA PAULA",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/tonkij-kraj-1-2-govyazhij-zern-otkorm-urugvaj-ohl-v-u"
+    },
+    {
+        "id": "269258",
+        "name": "Шейка Черкизово По-Баварски в оригинальном соусе, ~1.1кг",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": 639.0,
+        "old_price": 749.0,
+        "discount": "-15%",
+        "offline_prices": [
+            {
+                "actual_price": 639.0,
+                "old_price": 749.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/11kg-sheyka-cherkizovo-po-bavarski-v-originalnom-souse-vu"
+    },
+    {
+        "id": "219698",
+        "name": "Мякоть говяжьей лопаточной части Мясо есть! без кости охлажденная, 600г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 635.0,
+        "old_price": 749.0,
+        "discount": "-15%",
+        "offline_prices": [
+            {
+                "actual_price": 635.0,
+                "old_price": 749.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/600g-myakot-lopatochnoy-chasti-myaso-est-bk-ohl-vu"
+    },
+    {
+        "id": "207142",
+        "name": "Ребрышки свиные Мираторг охлажденные, ~1.3кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/13kg-rebryshki-svinye-miratorg-ohl-vu"
+    },
+    {
+        "id": "106353",
+        "name": "Стейк Primebeef Чак ролл из говядины охлажденный, 400г",
+        "brand": "PRIMEBEEF",
+        "current_price": 683.0,
+        "old_price": 749.0,
+        "discount": "-9%",
+        "offline_prices": [
+            {
+                "actual_price": 683.0,
+                "old_price": 749.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-chak-roll-iz-prajmbif-v-vakuumnoj-upakovke-400-g"
+    },
+    {
+        "id": "118367",
+        "name": "Азу из говядины Эколь Халяль охлажденное, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 607.0,
+        "old_price": 639.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 607.0,
+                "old_price": 639.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400-g-azu-govyazhye-ekol-ohl-gaz-halyal"
+    },
+    {
+        "id": "328742",
+        "name": "Карбонад свиной Мираторг без кости охлажденный, ~2.16кг",
+        "brand": "МИРАТОРГ",
+        "current_price": 452.17,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 439.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 399.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-bez-kozhi-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "575969",
+        "name": "Диафрагма Мираторг говяжья тонкая внутренняя",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/diafragma-govyazhya-tonkaya-vnutrennyaya"
+    },
+    {
+        "id": "269503",
+        "name": "Отруб Мясо есть! Чак ай ролл подлопаточный охлажденный, ~4кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/4kg-otrub-myaso-est-chak-ay-roll-podlopatochnyy-ohl-vu"
+    },
+    {
+        "id": "269262",
+        "name": "Свинина Черкизово в имбирно-соевом соусе с кунжутом, 800г",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": 455.0,
+        "old_price": 479.01,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 455.0,
+                "old_price": 479.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/800g-svinina-cherkizovo-v-imbirno-soevom-souse-s-kunzhutom-vu"
+    },
+    {
+        "id": "267636",
+        "name": "Стриплойн Myasoet Meat Company тонкий край охлажденный, ~3.5кг",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/striployn-myasoet-meat-company-tonkiy-kray-ohlazhdennyy-35kg"
+    },
+    {
+        "id": "258589",
+        "name": "Каре ягненка Мясо есть! Халяль незачищенное охлажденное, ~1кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/1kg-kare-yagnenka-myaso-est-halyal-nezachisch-ohl-vu"
+    },
+    {
+        "id": "97482",
+        "name": "Корейка свиная Черкизово на кости охлажденная, ~2кг",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/korejka-na-kosti-cherkizovo-vakuumnaya-upakovka"
+    },
+    {
+        "id": "269915",
+        "name": "Грудинка Pignic в классическом маринаде охлажденная, ~1кг",
+        "brand": "PIGNIC",
+        "current_price": 327.0,
+        "old_price": 409.0,
+        "discount": "-20%",
+        "offline_prices": [
+            {
+                "actual_price": 327.0,
+                "old_price": 409.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/grudinka-pignic-v-klassicheskom-marinale-ohlazhdennaya-1kg"
+    },
+    {
+        "id": "243895",
+        "name": "Вырезка свиная АгроЭко без кости охлажденная, ~1кг",
+        "brand": "АГРОЭКО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-vyrezka-svinaya-agroeko-bk-ohl-vu"
+    },
+    {
+        "id": "510350",
+        "name": "Передняя часть лопатки Заречное говяжья охлажденная, ~1.4кг",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-9%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/file-lopatki-govyazhye"
+    },
+    {
+        "id": "238404",
+        "name": "Лопатка свиная Диета18 без кости охлажденная, ~1кг",
+        "brand": "ДИЕТА18",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-lopatka-svinina-dieta18-bk-vu-ohl"
+    },
+    {
+        "id": "248935",
+        "name": "Стейк Веско Классический в маринаде, 190г",
+        "brand": "ВЕСКО",
+        "current_price": 249.0,
+        "old_price": 269.02,
+        "discount": "-7%",
+        "offline_prices": [
+            {
+                "actual_price": 249.0,
+                "old_price": 269.02
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-vesko-klassicheskiy-v-marinade-190g"
+    },
+    {
+        "id": "271785",
+        "name": "Говядина Веско для тушения охлажденная, 400г",
+        "brand": "ВЕСКО",
+        "current_price": 369.0,
+        "old_price": 389.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 369.0,
+                "old_price": 389.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400g-govyadina-vesko-dlya-tusheniya-ohl-vu"
+    },
+    {
+        "id": "234816",
+        "name": "Шейка свиная Коралл охлажденная, ~2кг",
+        "brand": "Без бренда",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/sheyka-svinaya-korall-ohlazhdennaya-2kg"
+    },
+    {
+        "id": "234820",
+        "name": "Окорок свиной Коралл охлажденный, ~8кг",
+        "brand": "Без бренда",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/okorok-svinoy-korall-ohlazhdennyy-8kg"
+    },
+    {
+        "id": "243899",
+        "name": "Шейка свиная АгроЭко без кости охлажденная, ~1кг",
+        "brand": "АГРОЭКО",
+        "current_price": 489.01,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 489.01,
+                "old_price": null
+            },
+            {
+                "actual_price": 439.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/1kg-sheyka-svinaya-agroeko-bk-ohl-vu"
+    },
+    {
+        "id": "272689",
+        "name": "Окорок свиной Самсон По-Карельски к празднику, 850г",
+        "brand": "САМСОН",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/okorok-svinoy-samson-po-karelski-k-prazdniku-850g"
+    },
+    {
+        "id": "60807",
+        "name": "Фитнес стейк Мираторг из телятины WrC охлажденный, 350г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/fitnes-stejk-iz-miratorg-wrc-350g"
+    },
+    {
+        "id": "274377",
+        "name": "Стейк Myasoet Meat Company Нью Йорк с чили и тимьяном охлажденный, 250г",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": 959.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 959.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 911.05,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-myasoet-meat-company-nyu-york-s-chili-i-timyanom-ohlazhdennyy-250g"
+    },
+    {
+        "id": "131357",
+        "name": "Шея говяжья Вахавяк Плюс без кости охлажденная, ~5кг",
+        "brand": "ВАХАВЯК ПЛЮС",
+        "current_price": 692.0,
+        "old_price": 789.0,
+        "discount": "-12%",
+        "offline_prices": [
+            {
+                "actual_price": 692.0,
+                "old_price": 789.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/sheya-govyazhya-b-k-ohl-v-u"
+    },
+    {
+        "id": "243244",
+        "name": "Корейка ягнятина Мираторг на кости охлажденная, ~2.1кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/koreyka-yagnyatina-miratorg-na-kosti-ohlazhdenaya-21kg"
+    },
+    {
+        "id": "254675",
+        "name": "Лопатка баранья Bazarco Халяль охлажденная, ~3.75кг",
+        "brand": "BAZARCO",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/375kg-lopatka-baranya-halyal-bazarco-vu-ohl"
+    },
+    {
+        "id": "127761",
+        "name": "Край толстый говяжий Grand Ana Paula 1/2 зерновой откорм Уругвай охлажденный, ~1кг",
+        "brand": "GRAND ANA PAULA",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/tolstyj-kraj-govyazhij-1-2-zern-otkorm-urugvaj-ohl-v-u"
+    },
+    {
+        "id": "260011",
+        "name": "Говядина Primebeef Халяль мраморная для запекания охлажденная, ~2кг",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/2kg-govyadina-mramornaya-primebeef-dlya-zap-halyal-vu-ohl"
+    },
+    {
+        "id": "121466",
+        "name": "Стейк Мачете из говядины Веско охлажденный, 200г",
+        "brand": "ВЕСКО",
+        "current_price": 280.01,
+        "old_price": 294.8,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 280.01,
+                "old_price": 294.8
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/200g-stejk-machete-vesko-ohl"
+    },
+    {
+        "id": "611510",
+        "name": "Шея говяжья Мираторг охлажденная, ~2.5кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/sheya-govyazhya-vakuumnaya-upakovka"
+    },
+    {
+        "id": "105805",
+        "name": "Медальоны Мираторг Фирменные из свинины охлажденные",
+        "brand": "МИРАТОРГ",
+        "current_price": 607.0,
+        "old_price": 639.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 607.0,
+                "old_price": 639.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/medalony-iz-miratorg-firmennye"
+    },
+    {
+        "id": "654465",
+        "name": "Стейк Primebeef Топ Сирлойн из мраморной говядины охлажденный, 400г",
+        "brand": "PRIMEBEEF",
+        "current_price": 854.0,
+        "old_price": 959.0,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 854.0,
+                "old_price": 959.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-prajmbif-top-sirlojn-govyazhij-mramonyj-400-g"
+    },
+    {
+        "id": "347636",
+        "name": "Вырезка свиная Мираторг охлажденная, ~2.51кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/vyrezka-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "577537",
+        "name": "Мускул глазной говяжий Заречное охлажденный, ~800г",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/glaznoj-muskul-govyazhij-vakuumnaya-upakovka-zarechnoe"
+    },
+    {
+        "id": "560733",
+        "name": "Корейка телячья Мясо есть! на кости охлажденная, ~800г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/korejka-telyachya-na-kosti-myaso-est-v-u"
+    },
+    {
+        "id": "260014",
+        "name": "Отруб спинной Primebeef Top Choice Халяль без кости охлажденный, ~5.8кг",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/58kg-spinnoy-otrub-top-choice-primebeef-bk-halyal-vu-ohl"
+    },
+    {
+        "id": "78675",
+        "name": "Внутренняя часть бедра Мираторг говяжья Black Angus охлажденная, ~8кг",
+        "brand": "МИРАТОРГ",
+        "current_price": 919.0,
+        "old_price": null,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 919.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/vnutrennyaya-chast-bedra-gov-ohl-miratorg-black-angus"
+    },
+    {
+        "id": "60033",
+        "name": "Стейк Мираторг Tender pork из свиной шейки мраморный охлажденный, 280г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/stejk-iz-svinoj-shejki-miratorg-tender-pork-mramornyj-280g-60033"
+    },
+    {
+        "id": "106345",
+        "name": "Стейк Заречное Рибай Skin из говядины охлажденный, 400г",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": 759.0,
+        "old_price": 889.0,
+        "discount": "-15%",
+        "offline_prices": [
+            {
+                "actual_price": 759.0,
+                "old_price": 889.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-ribaj-skin-iz-zarechnoe-400-g"
+    },
+    {
+        "id": "559371",
+        "name": "Окорок Останкино свиной охлажденный",
+        "brand": "ОСТАНКИНО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/okorok-svinoj-vakuumnaya-upakovka-ostankino"
+    },
+    {
+        "id": "654464",
+        "name": "Стейк Primebeef Топ-Блэйд охлажденный говяжий, 400г",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-prajmbif-top-blejd-govyazhij-mramornyj-400-g"
+    },
+    {
+        "id": "236939",
+        "name": "Ребрышки из мраморной говядины Myasoet Meat Company Асадо охлажденные, 300г",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": 615.0,
+        "old_price": 769.0,
+        "discount": "-20%",
+        "offline_prices": [
+            {
+                "actual_price": 615.0,
+                "old_price": 769.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/300g-rebryshki-asado-myasoet-meat-company-vu-ohl"
+    },
+    {
+        "id": "272910",
+        "name": "Корейка Мираторг Халяль из молочного ягненка 8 ребер охлажденная, ~500г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/500g-koreyka-miratorg-molochn-yagnenok-8-reber-nk-halyal-ohl"
+    },
+    {
+        "id": "85082",
+        "name": "Стейк из телятины Мираторг Стриплойн охлажденный, 370г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/stejk-iz-striplojn-fermerskij-bychok-miratorg"
+    },
+    {
+        "id": "256208",
+        "name": "Оковалок говяжий Мясо есть! Халяль охлажденный, ~5кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/okovalok-govyazhiy-myaso-est-halyal-ohlazhdennyy-5kg"
+    },
+    {
+        "id": "212624",
+        "name": "Окорок молодого барашка Bazarco Халяль на кости с голяшкой охлажденный, ~1кг",
+        "brand": "BAZARCO",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/1kg-okorok-na-kosti-s-golyashkoy-bazarco-ohl-vu"
+    },
+    {
+        "id": "276104",
+        "name": "Рулька свиная Черкизово в пряном маринаде охлажденная, ~500г",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/500g-rulka-svinaya-cherkizovo-v-pryanom-marinade-okhl-v-u"
+    },
+    {
+        "id": "216653",
+        "name": "Окорок свиной на кости охлажденный, ~1.5кг",
+        "brand": "Без бренда",
+        "current_price": 369.01,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 369.01,
+                "old_price": null
+            },
+            {
+                "actual_price": 329.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/15kg-okorok-svinoy-na-kosti-ohl-vu"
+    },
+    {
+        "id": "328747",
+        "name": "Шейка свиная Мираторг без кости охлажденная, ~2.7кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/shejka-bez-kosti-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "575419",
+        "name": "Голяшка говяжья Заречное бескостная охлажденная, ~2.35кг",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/golyashka-govyazhya-vakuumnaya-upakovka-zarechnoe"
+    },
+    {
+        "id": "214312",
+        "name": "Шейка свиная Останкино охлажденная, ~1кг",
+        "brand": "ОСТАНКИНО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-sheyka-ostankino-ohl-vu"
+    },
+    {
+        "id": "267166",
+        "name": "Стейк из говядины Вагю Мираторг Харуки, 190г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/190g-steyk-haruki-miratorg-wagyu-ohl"
+    },
+    {
+        "id": "610843",
+        "name": "Край тонкий Мираторг Prime говяжий крупный кусок, ~6.3кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/tonkij-kraj-krupnyj-kusok-prime-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "60733",
+        "name": "Стриплойн говяжий Мираторг Prime без кости охлажденный, ~1кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-24%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/striplojn-govyazhij-prime-bez-kosti-vakuumnaya-upakovka-miratorg-1kg-60733"
+    },
+    {
+        "id": "381810",
+        "name": "Шейка свиная Мираторг без кости охлажденная",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/shejka-bez-kozhi-podlozhka-miratorg"
+    },
+    {
+        "id": "228307",
+        "name": "Корейка свиная АгроЭко охлажденная, ~5кг",
+        "brand": "АГРОЭКО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/5kg-koreyka-svinaya-agroeko-ohl-vu"
+    },
+    {
+        "id": "118127",
+        "name": "Лопатка Мясо есть! Халяль баранья на кости охлажденная, 400г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/400g-lopatka-myaso-est-na-kosti-ohl-lotok"
+    },
+    {
+        "id": "212628",
+        "name": "Котлета из баранины Bazarco Халяль натуральная на кости охлажденная, 400г",
+        "brand": "BAZARCO",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400g-kotleta-naturalnaya-na-kosti-bazarco-ohl-lotok"
+    },
+    {
+        "id": "271775",
+        "name": "Шейка в маринаде виски охлажденная, ~500г",
+        "brand": "Без бренда",
+        "current_price": 531.0,
+        "old_price": 679.0,
+        "discount": "-22%",
+        "offline_prices": [
+            {
+                "actual_price": 531.0,
+                "old_price": 679.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/500g-sheyka-v-marinade-viski-ohl-vu"
+    },
+    {
+        "id": "132163",
+        "name": "METRO Chef Телятина фермерская для бульона охлажденная, ~600г",
+        "brand": "METRO CHEF",
+        "current_price": 939.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 939.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 829.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/telyatina-fermerskaya-metro-chef-d-bulon-ohl-gaz"
+    },
+    {
+        "id": "127763",
+        "name": "Толстый край говяжий Grand Ana Paula зерновой откорм Уругвай охлажденный, ~3кг",
+        "brand": "GRAND ANA PAULA",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/tolstyj-kraj-govyazhij-zern-otkorm-urugvaj-ohl-v-u"
+    },
+    {
+        "id": "117171",
+        "name": "Голяшка Мираторг по-милански говяжья для запекания охлажденная, ~1.7кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-18%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/govyazhya-golen-po-milanski-dlya-zapekaniya-miratorg-18kg"
+    },
+    {
+        "id": "203297",
+        "name": "Бефстроганов говяжий Эколь Халяль охлажденный, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 607.0,
+        "old_price": 679.0,
+        "discount": "-11%",
+        "offline_prices": [
+            {
+                "actual_price": 607.0,
+                "old_price": 679.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400g-befstroganov-govyazhiy-ekol-ohl-lotok"
+    },
+    {
+        "id": "667702",
+        "name": "Мякоть лопатки Мираторг говяжья охлажденная, 800г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/myakot-lopatki-govyazhya-800g"
+    },
+    {
+        "id": "236535",
+        "name": "Котлета на косточке из ягнятины Мираторг Dorper охлажденная, 280г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-13%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/kotleta-na-kostochke-iz-yagnyatiny-miratorg-dorper-ohlazhdennaya-280g"
+    },
+    {
+        "id": "611027",
+        "name": "Стейк Мираторг Prime skin Мачете из говядины, 480г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/stejk-machete-govyazhij-miratorg-prime-skin-480g"
+    },
+    {
+        "id": "212626",
+        "name": "Гуляш из баранины Bazarco Халяль охлажденный, 400г",
+        "brand": "BAZARCO",
+        "current_price": 799.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 799.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 709.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400g-gulyash-bazarco-ohl-lotok"
+    },
+    {
+        "id": "642287",
+        "name": "Шейка свиная Слово мясника охлажденная, ~1кг",
+        "brand": "СЛОВО МЯСНИКА",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/sheya"
+    },
+    {
+        "id": "96146",
+        "name": "Корейка Ближние горки из свинины охлажденный, ~4.6кг",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": 462.47,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 449.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 409.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/art-96146"
+    },
+    {
+        "id": "260459",
+        "name": "Часть шейная говяжья Вахавяк Плюс фирменная охлажденная, 600г",
+        "brand": "ВАХАВЯК ПЛЮС",
+        "current_price": 521.0,
+        "old_price": 549.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 521.0,
+                "old_price": 549.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/600g-sheynaya-chast-govyazhya-vahavyak-plyus-firmennaya-vu-ohl"
+    },
+    {
+        "id": "305601",
+        "name": "Грудинка свиная Останкино без кости крупный кусок охлажденная, ~900г",
+        "brand": "ОСТАНКИНО",
+        "current_price": 519.0,
+        "old_price": 619.0,
+        "discount": "-16%",
+        "offline_prices": [
+            {
+                "actual_price": 519.0,
+                "old_price": 619.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/grudinka-bez-kosti-krupnyj-kusok-vakuumnaya-upakovka-ostankino"
+    },
+    {
+        "id": "590714",
+        "name": "Мякоть внутренней части бедра Заречное говяжья охлажденная, ~1.26кг",
+        "brand": "ЗАРЕЧНОЕ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-9%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myakot-vnutrennej-chasti-bedra-zarechnoe-v-u"
+    },
+    {
+        "id": "118366",
+        "name": "Говядина Эколь Халяль для студня охлажденная, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": 432.0,
+        "old_price": 455.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 432.0,
+                "old_price": 455.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/400-g-dlya-studnya-ekol-ohl-gaz-halyal"
+    },
+    {
+        "id": "267164",
+        "name": "Стейк из говядины Вагю Мираторг Стриплойн, 190г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/190g-steyk-striployn-miratorg-wagyu-ohl"
+    },
+    {
+        "id": "611026",
+        "name": "Стейк Мираторг Рамп говяжий Black Angus, 480г",
+        "brand": "МИРАТОРГ",
+        "current_price": 549.0,
+        "old_price": 655.01,
+        "discount": "-16%",
+        "offline_prices": [
+            {
+                "actual_price": 549.0,
+                "old_price": 655.01
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/ramp-stejk-miratorg-skin-480g"
+    },
+    {
+        "id": "98009",
+        "name": "Тушка кролика Кролъ и К охлажденная, ~1.2кг",
+        "brand": "КРОЛЪ И К",
+        "current_price": 679.0,
+        "old_price": 715.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 679.0,
+                "old_price": 715.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/tushka-1-kg"
+    },
+    {
+        "id": "233389",
+        "name": "Окорок в маринаде Мираторг охлажденный, ~1.15кг",
+        "brand": "МИРАТОРГ",
+        "current_price": 489.01,
+        "old_price": 579.0,
+        "discount": "-16%",
+        "offline_prices": [
+            {
+                "actual_price": 489.01,
+                "old_price": 579.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/okorok-v-marinade-miratorg-ohlazhdennyy-115kg"
+    },
+    {
+        "id": "654467",
+        "name": "Стейк Primebeef Рибай из мраморной говядины охлажденный, 400г",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-12%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-prajmbif-ribaj-govyazhij-mramornyj-400-g"
+    },
+    {
+        "id": "242744",
+        "name": "Стейк говяжий Домашний Ресторатор Стриплойн охлажденный, 350г",
+        "brand": "ДОМАШНИЙ РЕСТОРАТОР",
+        "current_price": 740.0,
+        "old_price": 779.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 740.0,
+                "old_price": 779.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-govyazhiy-domashniy-restorator-striployn-ohlazhdennyy-350g"
+    },
+    {
+        "id": "98351",
+        "name": "Корейка Мясо есть! из баранины охлажденная, 500г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/korejka-iz-myaso-est-500-g"
+    },
+    {
+        "id": "637640",
+        "name": "Лопатка из телятины Мираторг охлажденная, ~2.3кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/lopatka-iz-vakuumnaya-upakovka-miratorg"
+    },
+    {
+        "id": "214310",
+        "name": "Вырезка свиная Останкино охлажденная, ~1кг",
+        "brand": "ОСТАНКИНО",
+        "current_price": 539.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 539.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 489.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/1kg-vyrezka-svinaya-ostankino-ohl-vu"
+    },
+    {
+        "id": "275511",
+        "name": "Грудинка говяжья Мясо есть! для запекания охлажденная, ~2кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/grudinka-govyazhya-myaso-est-dlya-zapekaniya-ohlazhdennaya-2kg"
+    },
+    {
+        "id": "521166",
+        "name": "Мякоть бедра Мираторг говяжья охлажденная, ~600г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-13%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myakot-bedra-govyazhya-vakuumnaya-upakovka"
+    },
+    {
+        "id": "260010",
+        "name": "Тримминг говяжий Primebeef Халяль охлажденный, ~10кг",
+        "brand": "PRIMEBEEF",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/10kg-trimming-govyazhiy-primebeef-halyal-vu-ohl"
+    },
+    {
+        "id": "566261",
+        "name": "Котлетное мясо говяжье Мясо есть! охлажденное, ~1.6кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 597.0,
+        "old_price": 659.0,
+        "discount": "-9%",
+        "offline_prices": [
+            {
+                "actual_price": 597.0,
+                "old_price": 659.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/kotlety-govyazhyi-vakuumnaya-upakovka-myaso-est"
+    },
+    {
+        "id": "258400",
+        "name": "Вырезка ягнятины Мясо есть! Халяль охлажденная, 300г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/vyrezka-yagnyatiny-myaso-est-halyal-ohlazhdennaya-300g"
+    },
+    {
+        "id": "270306",
+        "name": "Стейк из говядины Taurus Стриплойн Dry Aged категории A, 300г",
+        "brand": "TAURUS",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-13%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/300g-steyk-striploin-taurus-dry-aged-ohl-vu"
+    },
+    {
+        "id": "113087",
+        "name": "Мясо свиное Ближние горки По-итальянски в соусе с вялеными томатами охлажденное, ~1.25кг",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": 419.0,
+        "old_price": 619.0,
+        "discount": "-32%",
+        "offline_prices": [
+            {
+                "actual_price": 419.0,
+                "old_price": 619.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myaso-po-italyanski-svinoe-ohlazhdennoe-dmitrogorskij-produkt"
+    },
+    {
+        "id": "214311",
+        "name": "Карбонад свиной Останкино без кости охлажденный, ~1кг",
+        "brand": "ОСТАНКИНО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/1kg-karbonad-svinoy-ostankino-bk-ohl-vu"
+    },
+    {
+        "id": "122745",
+        "name": "Котлета из баранины Эколь Халяль натуральная охлажденная, 400г",
+        "brand": "ЭКОЛЬ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/kotleta-iz-ekol-naturalnaya-400-g"
+    },
+    {
+        "id": "312728",
+        "name": "Ребра свиные Останкино крупный кусок охлажденный, ~2.05кг",
+        "brand": "ОСТАНКИНО",
+        "current_price": 559.0,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": 559.0,
+                "old_price": null
+            },
+            {
+                "actual_price": 498.99,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/rebra-svinye-krupnyj-kusok-vakuumnaya-upakovka-312728"
+    },
+    {
+        "id": "272027",
+        "name": "Мякоть говядины Мираторг из фермерского бычка охлажденная, ~500г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/500g-myakot-govyadiny-miratorg-fermerskiy-bychok-ohl-vu"
+    },
+    {
+        "id": "234819",
+        "name": "Лопатка свиная Коралл охлажденная, ~4кг",
+        "brand": "Без бренда",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/lopatka-svinaya-korall-ohlazhdennaya-4kg"
+    },
+    {
+        "id": "258587",
+        "name": "Лопатка ягненка Мясо есть! Халяль без кости охлажденная, ~1.1кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/11kg-lopatka-yagnenka-myaso-est-halyal-ohl-vu"
+    },
+    {
+        "id": "246571",
+        "name": "Шея свиная Филье Проперти бескостная охлажденная, ~6кг",
+        "brand": "ФИЛЬЕ ПРОПЕРТИ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/sheya-svinaya-file-properti-beskostnaya-ohlazhdennaya-6kg"
+    },
+    {
+        "id": "633333",
+        "name": "Карпаччо Мираторг из мраморной говядины, 90г",
+        "brand": "МИРАТОРГ",
+        "current_price": 225.01,
+        "old_price": 239.0,
+        "discount": "-6%",
+        "offline_prices": [
+            {
+                "actual_price": 225.01,
+                "old_price": 239.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/karpachcho-miratorg-iz-mramornoj-govyadiny-90g"
+    },
+    {
+        "id": "246570",
+        "name": "Карбонад свиной Филье Проперти бескостный охлажденный, ~4кг",
+        "brand": "ФИЛЬЕ ПРОПЕРТИ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoy-file-properti-beskostnyy-ohlazhdennyy-4kg"
+    },
+    {
+        "id": "637421",
+        "name": "Стейк Мираторг Чак Ролл говяжий охлажденный, 570г",
+        "brand": "МИРАТОРГ",
+        "current_price": 889.0,
+        "old_price": 989.0,
+        "discount": "-10%",
+        "offline_prices": [
+            {
+                "actual_price": 889.0,
+                "old_price": 989.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/stejk-govyazhij-chak-roll-miratorg-570g"
+    },
+    {
+        "id": "275512",
+        "name": "Грудинка говяжья Мясо есть! Брискет охлажденная, ~3кг",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/grudinka-govyazhya-myaso-est-brisket-ohlazhdennaya-3kg"
+    },
+    {
+        "id": "586221",
+        "name": "Говядина Мясо есть! наружная тазобедренная часть без кости охлажденная, ~800г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/naruzhnaya-tazobedrennaya-chast-bez-kosti-vakuumnaya-upakovka-est"
+    },
+    {
+        "id": "235161",
+        "name": "Мякоть тазобедренной части говяжье Мясо есть! Халяль охлажденная, 600г",
+        "brand": "МЯСО ЕСТЬ!",
+        "current_price": 635.0,
+        "old_price": 769.0,
+        "discount": "-17%",
+        "offline_prices": [
+            {
+                "actual_price": 635.0,
+                "old_price": 769.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myakot-govyazhya-myaso-est-tazobedrennoy-chasti-halyal-ohlazhdennaya-600g"
+    },
+    {
+        "id": "270341",
+        "name": "Ребрышки свиные Ближние горки аппетитные охлажденные, ~850г",
+        "brand": "БЛИЖНИЕ ГОРКИ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/850g-rebryshki-blizhnie-gorki-appetitnye-svinye-ohl-vu"
+    },
+    {
+        "id": "509168",
+        "name": "Вырезка Мираторг DF свиная охлажденная, ~650г",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/vyrezka-df"
+    },
+    {
+        "id": "228303",
+        "name": "Вырезка свиная АгроЭко охлажденная, ~2кг",
+        "brand": "АГРОЭКО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/19kg-vyrezka-svinaya-agroeko-ohl-vu"
+    },
+    {
+        "id": "269920",
+        "name": "Карбонад Pignic классический в сливочном соусе охлажденный, ~1кг",
+        "brand": "PIGNIC",
+        "current_price": 521.0,
+        "old_price": 549.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 521.0,
+                "old_price": 549.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/karbonad-pignic-klassicheskiy-v-slivochnom-souse-ohlazhdennyy-1kg"
+    },
+    {
+        "id": "269257",
+        "name": "Окорок Черкизово По-Техасски в соусе BBQ, ~1.1кг",
+        "brand": "ЧЕРКИЗОВО",
+        "current_price": 521.0,
+        "old_price": 549.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 521.0,
+                "old_price": 549.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/11kg-okorok-cherkizovo-po-tehasski-v-souse-bbq-vu"
+    },
+    {
+        "id": "269314",
+        "name": "Лопатка баранья Эколь без кости охлажденная, ~800г",
+        "brand": "ЭКОЛЬ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/800g-lopatka-baranya-bk-ekol-ohl-vu"
+    },
+    {
+        "id": "219980",
+        "name": "Мякоть окорока из баранины Bazarco Халяль охлажденная, ~1кг",
+        "brand": "BAZARCO",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            },
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/1kg-myakot-okoroka-baranego-bazarco-ohl-vu"
+    },
+    {
+        "id": "230199",
+        "name": "Рибай говяжий Myasoet Meat Company охлажденный, ~3.5кг",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/ribay-govyazhiy-myasoet-meat-company-ohlazhdennyy-35kg"
+    },
+    {
+        "id": "343297",
+        "name": "Вырезка Останкино свиная охлажденная",
+        "brand": "ОСТАНКИНО",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/vyrezka-vakuumnaya-upakovka-ostankino"
+    },
+    {
+        "id": "135934",
+        "name": "Мышца пояснично-подвздошная говяжья Вахавяк Плюс охлажденная, ~1.8кг",
+        "brand": "ВАХАВЯК ПЛЮС",
+        "current_price": null,
+        "old_price": null,
+        "discount": "-13%",
+        "offline_prices": [
+            {
+                "actual_price": null,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/myshtsa-govyazhya-poyasnichno-podvzdoshnaya-vahavyak-plyus-ohlazhdennaya-18kg"
+    },
+    {
+        "id": "237501",
+        "name": "Шея Мираторг в маринаде с пряными травами по-кавказски охлажденная, ~1.15кг",
+        "brand": "МИРАТОРГ",
+        "current_price": 730.0,
+        "old_price": 769.0,
+        "discount": "-5%",
+        "offline_prices": [
+            {
+                "actual_price": 730.0,
+                "old_price": 769.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/sheya-miratorg-v-marinade-s-pryanymi-travami-po-kavkazski-ohlazhdennaya-115kg"
+    },
+    {
+        "id": "236938",
+        "name": "Стейк из мраморной говядины Myasoet Meat Company Чак Ролл охлажденный, 200г",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": 511.01,
+        "old_price": 639.0,
+        "discount": "-20%",
+        "offline_prices": [
+            {
+                "actual_price": 511.01,
+                "old_price": 639.0
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/200g-steyk-chak-roll-myasoet-meat-company-vu-ohl"
+    },
+    {
+        "id": "135847",
+        "name": "Пиканья говяжья Мираторг Matured Beef охлажденная, ~2.5кг",
+        "brand": "МИРАТОРГ",
+        "current_price": null,
+        "old_price": null,
+        "discount": null,
+        "offline_prices": [],
+        "link": "https://online.metro-cc.ru/products/pikanya-matured-govyazhya-ohlazhdennaya-25kg"
+    },
+    {
+        "id": "252100",
+        "name": "Стейк из говядины Myasoet Meat Company Топ Сайд в маринаде 4 перца охлажденный, 400г",
+        "brand": "MYASOET MEAT COMPANY",
+        "current_price": 831.0,
+        "old_price": null,
+        "discount": "-20%",
+        "offline_prices": [
+            {
+                "actual_price": 831.0,
+                "old_price": null
+            }
+        ],
+        "link": "https://online.metro-cc.ru/products/steyk-iz-govyadiny-myasoet-meat-company-top-sayd-v-marinade-4-pertsa-ohlazhdennyy-400g"
+    }
+]
