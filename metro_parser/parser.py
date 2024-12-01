@@ -1,4 +1,6 @@
 import asyncio
+import time
+
 from bs4 import BeautifulSoup
 from metro_parser.utils.http_client import HTTPClient
 from metro_parser.utils.file_handler import FileHandler
@@ -185,56 +187,69 @@ class MetroParser:
         Запускает парсинг всех страниц категории и товаров.
         """
         logger.info(f"Начинаем парсинг категории: {self.category_url}")
+        start_time = time.time()
+        total_requests = 0
 
-        # Загружаем первую страницу категории
-        first_page_content = await self.fetch_page(self.category_url)
-        if not first_page_content:
-            logger.error("Не удалось загрузить первую страницу.")
-            return
+        try:
+            # Загружаем первую страницу категории
+            first_page_content = await self.fetch_page(self.category_url)
+            total_requests += 1
+            if not first_page_content:
+                logger.error("Не удалось загрузить первую страницу.")
+                return
 
-        # Определяем количество страниц
-        self.parse_last_page(first_page_content)
+            # Определяем количество страниц
+            self.parse_last_page(first_page_content)
 
-        # Сохраняем товары с первой страницы
-        FileHandler.save_response(first_page_content, response_id="category_page_1")
-        all_product_links = self.parse_product_links(first_page_content)
+            # Сохраняем товары с первой страницы
+            FileHandler.save_response(first_page_content, response_id="category_page_1")
+            all_product_links = self.parse_product_links(first_page_content)
 
-        # Создаем задачи для загрузки остальных страниц
-        tasks = {
-            page: asyncio.create_task(self.fetch_page(f"{self.category_url}?page={page}"))
-            for page in range(2, self.last_page + 1)
-        }
+            # Создаем задачи для загрузки остальных страниц
+            tasks = {
+                page: asyncio.create_task(self.fetch_page(f"{self.category_url}?page={page}"))
+                for page in range(2, self.last_page + 1)
+            }
 
-        # Асинхронно обрабатываем остальные страницы
-        for page, task in tasks.items():
-            try:
-                page_content = await task
-                if not page_content:
-                    logger.warning(f"Не удалось загрузить страницу {page}. Пропускаем.")
-                    continue
+            # Асинхронно обрабатываем остальные страницы
+            for page, task in tasks.items():
+                try:
+                    page_content = await task
+                    total_requests += 1
+                    if not page_content:
+                        logger.warning(f"Не удалось загрузить страницу {page}. Пропускаем.")
+                        continue
 
-                # Сохраняем ответ и парсим товары со страницы
-                FileHandler.save_response(page_content, response_id=f"category_page_{page}")
-                product_links = self.parse_product_links(page_content)
-                logger.info(f"Найдено {len(product_links)} товаров на странице {page}.")
-                all_product_links.extend(product_links)
-            except Exception as e:
-                logger.error(f"Ошибка при обработке страницы {page}: {e}")
+                    # Сохраняем ответ и парсим товары со страницы
+                    FileHandler.save_response(page_content, response_id=f"category_page_{page}")
+                    product_links = self.parse_product_links(page_content)
+                    logger.info(f"Найдено {len(product_links)} товаров на странице {page}.")
+                    all_product_links.extend(product_links)
+                except Exception as e:
+                    logger.error(f"Ошибка при обработке страницы {page}: {e}")
 
-        # Убираем дубликаты ссылок (если это актуально)
-        all_product_links = list(set(all_product_links))
+            # Убираем дубликаты ссылок (если это актуально)
+            all_product_links = list(set(all_product_links))
 
-        # Парсим все найденные товары
-        product_tasks = [self.parse_product_page(link) for link in all_product_links]
-        results = await asyncio.gather(*product_tasks, return_exceptions=True)
+            # Парсим все найденные товары
+            product_tasks = [self.parse_product_page(link) for link in all_product_links]
+            results = await asyncio.gather(*product_tasks, return_exceptions=True)
 
-        # Фильтруем успешные результаты
-        self.products = [result for result in results if isinstance(result, dict)]
+            # Фильтруем успешные результаты
+            self.products = [result for result in results if isinstance(result, dict)]
+            total_requests += len(all_product_links)
 
-        FileHandler.save_json(self.products)
+            # Сохраняем результаты
+            FileHandler.save_json(self.products)
 
-        # Завершение процесса
-        logger.info(f"Парсинг завершён успешно. Найдено товаров: {len(self.products)}")
+        finally:
+            # Завершение процесса
+            end_time = time.time()
+            elapsed_time = end_time - start_time
+            logger.info(f"Парсинг завершён успешно.")
+            logger.info(f"Общее количество запросов: {total_requests}")
+            logger.info(f"Общее количество товаров: {len(self.products)}")
+            logger.info(f"Общее время выполнения: {elapsed_time:.2f} секунд.")
 
 
 if __name__ == "__main__":
