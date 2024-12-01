@@ -1,25 +1,51 @@
 import aiohttp
 import asyncio
-from aiohttp import ClientResponseError, ClientConnectorError, ClientTimeout
+from aiohttp_socks import ProxyConnector
 from metro_parser.utils.logger import logger
 from metro_parser.utils.file_handler import FileHandler
-from metro_parser.config import HEADERS, TIMEOUT, REQUEST_DELAY, SAVE_HTML_RESPONSES
+from metro_parser.config import (
+    HEADERS,
+    TIMEOUT,
+    REQUEST_DELAY,
+    SAVE_HTML_RESPONSES,
+    USE_PROXY,
+    PROXY_TYPE,
+    PROXY_IP,
+    PROXY_PORT,
+    PROXY_USER,
+    PROXY_PASSWORD,
+)
 from datetime import datetime
 
 
 class HTTPClient:
     def __init__(self):
         """
-        Инициализация клиента с настройкой заголовков и тайм-аутов.
+        Инициализация клиента с настройкой заголовков, тайм-аутов и прокси.
         """
         self.session = None
-        self.timeout = ClientTimeout(total=TIMEOUT)
+        self.timeout = aiohttp.ClientTimeout(total=TIMEOUT)
+        self.connector = self._build_connector()
+
+    @staticmethod
+    def _build_connector():
+        """
+        Создает ProxyConnector, если в конфигурации включено использование прокси.
+        :return: ProxyConnector или None.
+        """
+        if USE_PROXY:
+            proxy_url = f"{PROXY_TYPE}://{PROXY_IP}:{PROXY_PORT}"
+            if PROXY_USER and PROXY_PASSWORD:
+                proxy_url = f"{PROXY_TYPE}://{PROXY_USER}:{PROXY_PASSWORD}@{PROXY_IP}:{PROXY_PORT}"
+
+            return ProxyConnector.from_url(proxy_url)
+        return None
 
     async def __aenter__(self):
         """
         Контекстный менеджер для работы с клиентом.
         """
-        self.session = aiohttp.ClientSession(headers=HEADERS, timeout=self.timeout)
+        self.session = aiohttp.ClientSession(headers=HEADERS, timeout=self.timeout, connector=self.connector)
         return self
 
     async def __aexit__(self, exc_type, exc_value, traceback):
@@ -51,7 +77,7 @@ class HTTPClient:
                     logger.info(f"Успешно загружена страница: {url}")
                     return content
 
-            except (ClientResponseError, ClientConnectorError) as e:
+            except (aiohttp.ClientResponseError, aiohttp.ClientConnectorError) as e:
                 attempt += 1
                 logger.error(f"Ошибка при запросе {url}: {str(e)} (попытка {attempt}/{retries})")
                 if attempt < retries and delay:
